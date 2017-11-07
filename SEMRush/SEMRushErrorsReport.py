@@ -86,7 +86,7 @@ def delete_project(pid, domain):
 def login(url):
     get.dgs(url)
     get.log('> Login')
-    account=get.f2l('spyfu_account.txt')
+    account=get.f2l('SEMRush_account.txt')
     get.dec('header__navigation-login')
     get.dsk(account[0], 'email', 'name')
     get.dsk(account[1], 'password', 'name')
