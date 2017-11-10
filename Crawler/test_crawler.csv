@@ -1,0 +1,2768 @@
+ADDRESS,CONTENT TYPE,DATE,FINAL REACH URL,H1 0,H1 0 LENGTH,H1 0 STATUS,HEADERS,HTTP/HTTPS,META DESCRIPTION,META DESCRIPTION LENGTH,META DESCRIPTION STATUS,META KEYWORDS,META KEYWORDS LENGTH,NUMBER OF ALT-TAGS THAT ARE DUPLICATED,NUMBER OF IMAGES,NUMBER OF WITH ALT-TAG,NUMBER OF WITHOUT ALT-TAG,REDIRECT,REDIRECT TYPE,RESPONSE TIME (MS),SOUP,STATUS,STATUS CODE,TITLE,TITLE LENGTH,TITLE STATUS,URL,a
+https://nativeenergy.com/,text/html; charset=UTF-8,"Thu, 09 Nov 2017 01:47:35 GMT",http://www.nativeenergy.com/,"Your Climate Solutions Expert: carbon offsets, renewable energy credits, and carbon tracking services",101,GOOD,"{'Date': 'Thu, 09 Nov 2017 01:47:35 GMT', 'Server': 'Apache', 'X-Powered-By': 'PHP/5.5.38', 'P3P': 'CP=""NOI NID ADMa OUR IND UNI COM NAV""', 'Cache-Control': 'private, must-revalidate', 'Set-Cookie': 'evo1mb1hmf=6cf77eb75c84f6e1ece3cfcc8c87015a; path=/, evo1mb1hmf=6cf77eb75c84f6e1ece3cfcc8c87015a; path=/; httponly', 'Keep-Alive': 'timeout=5, max=100', 'Connection': 'Keep-Alive', 'Transfer-Encoding': 'chunked', 'Content-Type': 'text/html; charset=UTF-8'}",HTTP,"NativeEnergy is an expert provider of carbon offsets, renewable energy credits, and carbon accounting software. We help businesses and individuals identify and reduce their greenhouse gas pollution and attain their sustainability goals. ",237,TOO LONG,"nativeenergy, native energy,  carbon offsets, carbon credits, carbon project, carbon calculator, carbon footprint, carbon products",130,0,58,0,58,False,NONE,898.081,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<!-- Google Analytics Content Experiment code -->
+<script>function utmx_section(){}function utmx(){}(function(){var
+k='2815480-2',d=document,l=d.location,c=d.cookie;
+if(l.search.indexOf('utm_expid='+k)>0)return;
+function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+'<sc'+'ript src=""'+'http'+(l.protocol=='https:'?'s://ssl':
+'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'"" type=""text/javascript"" charset=""utf-8""><\/sc'+'ript>')})();
+</script><script>utmx('url','A/B');</script>
+<!-- End of Google Analytics Content Experiment code -->
+<meta content=""text/html; charset=utf-8"" http-equiv=""content-type""/>
+<meta content=""IE=EmulateIE8"" http-equiv=""X-UA-Compatible""/>
+<meta content=""nativeenergy, native energy,  carbon offsets, carbon credits, carbon project, carbon calculator, carbon footprint, carbon products"" name=""keywords""/>
+<meta content=""NativeEnergy is an expert provider of carbon offsets, renewable energy credits, and carbon accounting software. We help businesses and individuals identify and reduce their greenhouse gas pollution and attain their sustainability goals. "" name=""description""/>
+<title>NativeEnergy | Your Climate Solutions Expert</title>
+<link href=""style/style.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/mosaic.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/jquery.jscrollpane.css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/jquery.jscrollpane.lozenge.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/slider.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/colorbox.css"" rel=""stylesheet"" type=""text/css""/>
+<!--[if lt IE 9]>
+        <link href=""style/ie8-and-below.css"" rel=""stylesheet"" type=""text/css"" />
+<![endif]-->
+<!--[if lt IE 8]>
+        <link href=""style/style_ie7.css"" rel=""stylesheet"" type=""text/css"" />
+<![endif]-->
+<link href=""favicon.ico"" rel=""shortcut icon""/>
+<script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"" type=""text/javascript""></script>
+<script charset=""utf-8"" src=""js/foxycart.js"" type=""text/javascript""></script>
+<script src=""js/foxycart.cart.open.js"" type=""text/javascript""></script>
+<script src=""js/cufon-yui.js"" type=""text/javascript""></script>
+<script src=""js/cufon-replace.js"" type=""text/javascript""></script>
+<script src=""js/WhitenyHTF_400-WhitenyHTF_700.font.js"" type=""text/javascript""></script>
+<script src=""js/mosaic.1.0.1.js"" type=""text/javascript""></script>
+<script src=""js/jquery.mousewheel.js"" type=""text/javascript""></script>
+<script src=""js/jquery.jscrollpane.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.jcarousel.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.easing.1.3.js"" type=""text/javascript""></script>
+<script src=""js/jquery.cycle.all.latest.min.js"" type=""text/javascript""></script>
+<script src=""js/slider.js"" type=""text/javascript""></script>
+<script src=""js/jquery.hoverIntent.minified.js"" type=""text/javascript""></script>
+<script src=""js/mega-menu.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.defaultvalue.js"" type=""text/javascript""></script>
+<script src=""//use.typekit.net/xjf1ugv.js"" type=""text/javascript""></script>
+<script type=""text/javascript"">try{Typekit.load();}catch(e){}</script>
+<script type=""text/javascript"">
+$(document).ready(function() {
+    startcarosuel=function(){ 
+    $('#mycarousel').jcarousel({
+    	wrap: 'circular',
+	scroll:6
+    });
+    }
+});
+</script>
+<script type=""text/javascript"">
+	$(function(){
+		$('.bar2').mosaic({
+			animation	:	'slide',		//fade or slide
+                        opacity : 0.7, 
+                        speed: 800 
+		});
+	});		    
+</script>
+<script id=""sourcecode"" type=""text/javascript"">
+	$(function()
+	{
+		$('.scroll-pane').jScrollPane();
+		$('.scroll-pane-arrows').jScrollPane(
+			{
+				showArrows: true,
+				horizontalGutter: 10
+			}
+		);			
+	});
+</script>
+<script type=""text/javascript"">
+$(document).ready(function(){
+w_w= $(window).width();	
+		var $pxs_container	= $('#pxs_container');
+		$pxs_container.parallaxSlider();
+	});
+</script>
+<script type=""text/javascript"">
+	/* BUY NOW FORM */
+	function showProject(value){
+		$('.buynow_right').hide();
+		$('.descr').hide();
+		$(""#""+value).show();
+		$(""#""+value+""_description"").show();
+	}			
+	function setOneTime(){
+		$(""#bn_name"").val('Carbon Offset');
+		$(""#bn_price"").val('14');	
+		$(""#bn_code"").val('one_time');
+		$(""#bn_option_blend"").val(null);
+		$(""#bn_option"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val('$14 per ton.');	
+	}	
+	function setMonthly(){
+		$(""#bn_name"").val('Monthly Carbon Offset');
+		$(""#bn_price"").val('1.17');	
+		$(""#bn_code"").val('monthly');
+		$(""#bn_option"").val(null);		
+		$(""#bn_option_blend"").val('Ethiopia Clean Water');	
+		$(""#bn_onetime_price"").val(null);
+	}
+	/* BUY NOW PAGE */
+	function showProjectPage(value){
+		$('.buynow_right_page').hide();
+		$('.descr_page').hide();
+		$(""#""+value).show();
+		$(""#""+value+""_description"").show();
+	}	
+	function setOneTimePage(){
+		$(""#bn_name_page"").val('Carbon Offset');
+		$(""#bn_price_page"").val('14');	
+		$(""#bn_code_page"").val('one_time');
+		$(""#bn_option_blend_page"").val(null);
+		$(""#bn_option_page"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val('$14 per ton.');	
+	}	
+	function setMonthlyPage(){
+		$(""#bn_name_page"").val('Monthly Carbon Offset');
+		$(""#bn_price_page"").val('1.17');	
+		$(""#bn_code_page"").val('monthly');
+		$(""#bn_option_page"").val(null);
+		$(""#bn_option_blend_page"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val(null);	
+	}	
+	$(function() {
+		$(""#bn_onetime"").click(function () { 
+		  setOneTime(); 
+		});
+		$(""#bn_monthly"").click(function () { 
+		  setMonthly(); 
+		});
+		$(""#individual_radio"").click(function () { 
+		  $(""#business_radio"").prop('checked', false);
+		  $("".mailinkList_textfield_business"").css('display', 'none');
+		  $(""#business_submit"").css('display', 'none');
+		  $("".mailinkList_textfield_individual"").css('display', 'block');
+		  $("".mailinkList_textfield_individual"").css('top', '-191px'); 
+		  $(""#individual_submit"").css('display', 'block');
+		});
+		$(""#business_radio"").click(function () { 
+		  $(""#individual_radio"").prop('checked', false); 
+		  $("".mailinkList_textfield_individual"").css('display', 'none'); 
+		  $(""#individual_submit"").css('display', 'none');
+		  $("".mailinkList_textfield_business"").css('display', 'block');
+		  $(""#business_submit"").css('display', 'block');
+		});
+	});				
+	
+</script>
+<script type=""text/javascript"">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571974-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script charset=""utf-8"" type=""text/javascript"">
+	fcc.events.cart.preprocess.add(function(e, arr) {
+		if (arr['cart'] == 'checkout' || arr['cart'] == 'updateinfo' || arr['output'] == 'json') {
+			return true;
+		}
+		if (arr['cart'] == 'checkout_paypal_express') {
+			_gaq.push(['_trackPageview', '/paypal_checkout']);
+			return true;
+		}
+		_gaq.push(['_trackPageview', '/cart']);
+		return true;
+	});
+	fcc.events.cart.process.add_pre(function(e, arr) {
+		var pageTracker = _gat._getTrackerByName();
+		jQuery.getJSON('https://' + storedomain + '/cart?' + fcc.session_get() + '&h:ga=' + escape(pageTracker._getLinkerUrl('', true)) + '&output=json&callback=?', function(data){});
+		return true;
+	});
+</script>
+<link href=""/assets/snippets/custom_gallery/logorollover/css/style.css"" rel=""stylesheet"" type=""text/css""/>
+<style type=""text/css"">
+div.errors{ color:#F00;margin-bottom:5px; }
+.invalidValue{ border:1px solid #F00; }
+.requiredValue{ border:1px solid #F00; }
+</style>
+</head>
+<body class=""redux"">
+<div id=""container"">
+<div class=""top"">
+<a href=""home.html""><img alt=""Native Energy - Your Climate Solutions Expert"" class=""logo"" src=""images/logo-new.png"" title=""Native Energy - Your Climate Solutions Expert""/></a>
+<h1 class=""tagline""><strong>Your Climate Solutions Expert:</strong> carbon offsets, renewable energy credits, and carbon tracking services</h1>
+<div class=""topLink_area"">
+<a class=""first"" href=""https://nativeenergy.foxycart.com/cart?cart=updateinfo"">Sign In</a>
+<img class=""separator"" src=""images/separator.gif""/>
+<a class=""last"" href=""https://nativeenergy.foxycart.com/cart?cart=view"">Cart</a>
+</div>
+<div class=""search_area"">
+<form action=""search-results.html"" id=""ajaxSearch_form"" method=""post"">
+<input name=""advsearch"" type=""hidden"" value=""exactphrase""/>
+<div class=""search"">
+<input class=""searchfield"" id=""ajaxSearch_input"" name=""search"" onfocus=""this.value=(this.value=='Search here...')? '' : this.value ;"" type=""text"" value=""Search here...""/>
+</div>
+<div class=""sarch_btn"">
+<input id=""ajaxSearch_submit"" src=""images/go.gif"" type=""image""/>
+</div>
+</form>
+</div>
+</div>
+<div class=""menu_area"">
+<div class=""menu_container""><div class=""menu"">
+<ul id=""topnav"">
+<li class=""first hide"">
+<a href=""/services-for-businesses.html"" id=""for-businesses"">For Businesses</a>
+<!--[if lte IE 6]>
+        <a  href=""/services-for-businesses.html"">
+            For Businesses
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+<li class=""first""><a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a></li>
+<li class=""hide"">
+<a href=""/carbon-offsets-for-businesses.html"" id=""carbon-offsets-for-businesses"">Carbon Offsets</a>
+<!--[if lte IE 6]>
+        <a  href=""/carbon-offsets-for-businesses.html"">
+            Carbon Offsets
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a></li>
+<li class=""last""><a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li><a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a></li>
+<li class=""hide"">
+<a href=""/renewable-energy-credits.html"" id=""renewable-energy-credits"">RECs</a>
+<!--[if lte IE 6]>
+        <a  href=""/renewable-energy-credits.html"">
+            RECs
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""hide""><a href=""/marketing-your-actions.html"">Marketing Your Actions</a><dl>
+<li class=""first""><a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a></li>
+<li class=""last""><a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a></li>
+</dl></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a></li>
+<li class=""hide""><a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/how-carbon-offsets-work.html"" id=""for-individuals"">For Individuals</a>
+<!--[if lte IE 6]>
+        <a  href=""/how-carbon-offsets-work.html"">
+            For Individuals
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+</ul>
+<ul class=""subUl "">
+<li class=""first""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li><a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a></li>
+<li><a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a></li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""hide""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last""><a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/carbon-calculators.html"" id=""carbon-calculators"">Carbon Calculators</a>
+<!--[if lte IE 6]>
+        <a  href=""/carbon-calculators.html"">
+            Carbon Calculators
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first""><a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a></li>
+<li><a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a></li>
+<li class=""last hide""><a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/featured-projects.html"" id=""carbon-projects"">Carbon Projects</a>
+<!--[if lte IE 6]>
+        <a  href=""/featured-projects.html"">
+            Carbon Projects
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+<li class=""first""><a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a></li>
+<li class=""hide"">
+<a href=""/help-build-project-portfolio.html"" id=""help-build-project-portfolio"">Help Build™ Carbon Projects</a>
+<!--[if lte IE 6]>
+        <a  href=""/help-build-project-portfolio.html"">
+            Help Build&trade; Carbon Projects
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a></li>
+<li><a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a></li>
+<li><a href=""/oka.html"" title=""Forestry"">Forestry</a></li>
+<li><a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a></li>
+<li><a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a></li>
+<li class=""last""><a href=""/other.html"" title=""Other"">Other</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""""><a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a></li>
+<li class=""hide""><a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a></li>
+<li class=""hide""><a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a></li>
+<li class=""hide""><a href=""/certifications.html"" title=""Certifications"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/blog.html"" id=""news-events"">News &amp; Events</a>
+<!--[if lte IE 6]>
+        <a  href=""/blog.html"">
+            News & Events
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first hide""><a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a></li>
+<li class=""hide""><a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a></li>
+<li class=""hide"">
+<a href=""/press.html"" id=""press"">Press</a>
+<!--[if lte IE 6]>
+        <a  href=""/press.html"">
+            Press
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li><a href=""/webinars.html"" title=""Webinars"">Webinars</a></li>
+<li class=""last hide""><a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""who-we-are"" id=""about-us2"">About Us</a>
+<!--[if lte IE 6]>
+        <a  href=""who-we-are"">
+            About Us
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first""><a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a></li>
+<li><a href=""/the-team.html"" title=""Team"">Team</a></li>
+<li><a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a></li>
+<li><a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a></li>
+<li><a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""last""><a href=""#contact-lightbox"">Contact Us</a></li>
+</ul>
+</div></div>
+<div class=""menu_buyNow"">
+<ul id=""buynow"">
+<li><a class=""buy-button"" href=""#"">Buy Now</a>
+<div class=""buynow_box sub"">
+<div class=""buynow_left"">
+<h2>Buy Carbon Offsets</h2>
+<p>
+<span class=""descr"" id=""one_time_description"">Enter the number of carbon tons that you want to offset. <br/></span>
+<span class=""descr"" id=""monthly_description"">Enter the number of carbon tons that you want to offset <br/><strong>per year</strong>. </span>
+</p>
+<form accept-charset=""utf-8"" action=""https://nativeenergy.foxycart.com/cart"" method=""post"">
+<input id=""bn_name"" name=""name"" type=""hidden"" value=""Carbon Offset""/>
+<input id=""bn_code"" name=""code"" type=""hidden"" value=""onetime""/>
+<input id=""bn_option"" name=""Project"" type=""hidden"" value=""Ethiopia Clean Water""/>
+<input id=""bn_option_blend"" name=""Project_Blend"" type=""hidden"" value=""""/>
+<input id=""bn_onetime_price"" name=""Price Per Ton"" type=""hidden"" value=""$14""/>
+<input id=""bn_price"" name=""price"" type=""hidden"" value=""14""/>
+<input id=""bn_pop"" name=""Point of Purchase"" type=""hidden"" value=""Buy Now Dropdown Calculator""/>
+                        One Time <input checked=""checked"" class=""frequency"" id=""bn_onetime"" name=""sub_frequency"" onclick=""showProject('one_time');"" type=""radio"" value=""""/> 
+						Monthly <input class=""frequency"" id=""bn_monthly"" name=""sub_frequency"" onclick=""showProject('monthly');"" type=""radio"" value=""1m""/>
+<div class=""buyNow_field"">
+<input class=""default-value"" id=""tons"" name=""quantity"" type=""text"" value=""Number of Tons""/>
+</div>
+<div class=""btn_buy"">
+<input id=""buy"" name=""x:buy"" src=""images/btn-buy-now.png"" type=""image""/>
+</div>
+</form>
+<div class=""buy_now_learn_more"">
+<p><em><a href=""buy-now.html"">Learn more</a></em></p>
+</div>
+</div>
+<div class=""buynow_right"" id=""one_time"">
+<h2>Your purchase helps build:</h2>
+<h3><a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html"">Ethiopia Clean Water</a></h3>
+<a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html""><img alt=""Ethiopia Clean Water"" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>
+<p>Your offsets will be independently verified to the Verified Carbon Standard over approximately the first nine years of the project’s operations. <a href=""terms-conditions.html"">Terms and Conditions</a></p>
+</div>
+<div class=""buynow_right"" id=""monthly"" style=""display:none;"">
+<h2>Your purchase helps build:</h2>
+<h3><a href=""718"">Ethiopia Clean Water</a></h3>
+<a href=""718""><img alt="""" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>
+<p>Your offsets will be independently verified to the Verified Carbon Standard over approximately the first eight years of the project’s operations. <a href=""56.html"">Terms and Conditions</a></p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<a class=""static-link-wrapper"" href=""http://www.nativeenergy.com/cleanwater.html"">
+<div class=""static-banner"" style=""background: url(assets/images/Home/helen.jpg) no-repeat top left;"">
+<div class=""banner-text"">
+<h2>Fund Clean Water,<br/>Cut Carbon Emissions</h2>
+<h3>Provide clean water for less than<br/>a penny per liter and improve the <br/>lives of thousands</h3>
+<img alt=""Learn more"" class=""learn-more-static"" src=""images/btn-learn-more.png""/>
+</div>
+</div>
+</a>
+<h3 class=""our_clients"">Our Clients</h3>
+<div class=""sponsor_logosArea"">
+<!--<script type=""text/javascript"" src=""http://www.nativeenergy.com/assets/snippets/gallery_carousel_lighbox/js/jquery.1.2.6.js""></script>
+<script type=""text/javascript"" src=""http://www.nativeenergy.com/assets/snippets/gallery_carousel_lighbox/js/jquery.ajaxupload.js""></script>
+<script type=""text/javascript"" src=""http://www.nativeenergy.com/assets/snippets/gallery_carousel_lighbox/js/jquery.galleriffic.min.js""></script>
+<script type=""text/javascript"" src=""http://www.nativeenergy.com/assets/snippets/gallery_carousel_lighbox/js/jquery-impromptu.2.5.js""></script>
+<script type=""text/javascript"" src=""http://www.nativeenergy.com/assets/snippets/gallery_carousel_lighbox/js/gallery_init.js""></script>-->
+<div id=""s1"" style=""display:none"">
+<ul class=""jcarousel-skin-tango"" id=""mycarousel"">
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/160112_EFFECT_logo2_45pix.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/160112_EFFECT_logo2_45pix_bw.png"" width=""45""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132646_Home_benjerry.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132646_Home_benjerry_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132712_Home_bestbuy.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132712_Home_bestbuy_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132633_Home_aveda.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132633_Home_aveda_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/115623_Home_kgm.png""><img alt=""KGM"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/115623_Home_kgm_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133440_Home_stonyfield.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133440_Home_stonyfield_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132758_Home_clifbar.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132758_Home_clifbar_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132611_Home_annies.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132611_Home_annies_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132856_Home_curtis.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132856_Home_curtis_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132923_Home_dmb.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132923_Home_dmb_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132952_Home_eileenfisher.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132952_Home_eileenfisher_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/185359_Logo_Black_650x400_3.jpg""><img alt=""EcoEnclose"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/185359_Logo_Black_650x400_3.jpg"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/104728_Home_esurance.png""><img alt=""esurance"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/104728_Home_esurance_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132727_Home_brighterplanet.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132727_Home_brighterplanet_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133101_Home_golite.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133101_Home_golite_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133121_Home_greenamerica.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133121_Home_greenamerica_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133141_Home_interface.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133141_Home_interface_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133203_Home_livenation.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133203_Home_livenation_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133222_Home_natgeo.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133222_Home_natgeo_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133240_Home_nrdc.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133240_Home_nrdc_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""""><img alt=""Minnesota Orchestra"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/200219_MNO_CMYK_H.jpg"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133255_Home_nwf.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133255_Home_nwf_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133310_Home_reverb.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133310_Home_reverb_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133325_Home_sacnas.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133325_Home_sacnas_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133349_Home_smartwool.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133349_Home_smartwool_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132740_Home_clark.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132740_Home_clark_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133500_Home_timberland.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133500_Home_timberland_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/194412_Newlogo.png""><img alt=""ePantry"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/194412_epantry_b_and_w.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""http://www.xanterra.com/2011-sustainability-report-8404.html"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/104716_Home_xanterra.png"" target=""_blank""><img alt=""Xanterra"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/104716_Home_xanterra_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/165838_Home_haworth.png""><img alt=""Haworth"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/165838_Home_haworth_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/153030_Home_partnerre.png""><img alt=""Partner Re"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/153030_Home_partnerre_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/101024_Home_vitalchoice.png""><img alt=""Vitalchoice"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/101024_Home_vitalchoice_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/112433_Home_clymb.png""><img alt=""The Clymb"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/112433_Home_clymb_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/170451_Home_cone.png""><img alt=""Cone"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/170451_Home_cone_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/151627_Home_designtex.png""><img alt=""Designtex"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/151627_Home_designtex_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/163413_Home_recyclebank.png""><img alt=""Recyclebank"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/163413_Home_recyclebank_bw.png"" width=""100""/></a></li>
+<li style=""width:100px !important""><a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/110018_Home_fsc.png""><img alt=""FSC"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/110018_Home_fsc_bw.png"" width=""100""/></a></li>
+</ul>
+</div>
+<script type=""text/javascript"">
+jQuery(document).ready(function(){
+	previmage="""";
+	jQuery("".thumbuptpl"").mouseover(function(){	
+		previmage=jQuery(this).attr(""src"");
+		_href=jQuery(this).parent().attr(""rel"");
+		if(_href!="""" && _href!=""javascript:void(0)""){
+			jQuery(this).attr(""src"",_href);
+		}	
+	});
+	jQuery("".thumbuptpl"").mouseout(function(){	
+		if(previmage!=""""){
+			jQuery(this).attr(""src"",previmage);
+		}	
+		previmage="""";
+	});
+});	
+
+</script>
+<script type=""text/javascript"">
+<!--
+var manager='no';
+var preload=1;
+if(manager=='no' && preload){
+(function($){
+	var imgList = [];
+	$.extend({
+		preload: function(imgArr, option) {
+			var setting = $.extend({
+				init: function(loaded, total) {},
+				loaded: function(img, loaded, total) {},
+				loaded_all: function(loaded, total) {}
+			}, option);
+			var total = imgArr.length;
+			var loaded = 0;
+			setting.init(0, total);
+			for (i = 0; i < imgArr.length; i++) {
+				imgList.push($(""<img />"")
+				.load(function() {
+					loaded++;
+					setting.loaded(this, loaded, total);
+					if(loaded == total) {
+						setting.loaded_all(loaded, total);
+					}
+				})
+				.attr(""src"", imgArr[i])
+			);
+			}
+		}
+	});
+})(jQuery);
+$(function() {
+	$.preload([
+		  ""/assets/snippets/custom_gallery/logorollover/images/home/original/160112_EFFECT_logo2_45pix.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132646_Home_benjerry.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132712_Home_bestbuy.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132633_Home_aveda.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/115623_Home_kgm.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133440_Home_stonyfield.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132758_Home_clifbar.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132611_Home_annies.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132856_Home_curtis.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132923_Home_dmb.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132952_Home_eileenfisher.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/185359_Logo_Black_650x400_3.jpg"",""/assets/snippets/custom_gallery/logorollover/images/home/original/104728_Home_esurance.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132727_Home_brighterplanet.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133101_Home_golite.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133121_Home_greenamerica.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133141_Home_interface.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133203_Home_livenation.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133222_Home_natgeo.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133240_Home_nrdc.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133255_Home_nwf.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133310_Home_reverb.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133325_Home_sacnas.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133349_Home_smartwool.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/132740_Home_clark.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/133500_Home_timberland.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/194412_Newlogo.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/104716_Home_xanterra.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/165838_Home_haworth.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/153030_Home_partnerre.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/101024_Home_vitalchoice.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/112433_Home_clymb.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/170451_Home_cone.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/151627_Home_designtex.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/163413_Home_recyclebank.png"",""/assets/snippets/custom_gallery/logorollover/images/home/original/110018_Home_fsc.png""
+	 ], {
+	  init: function(loaded, total) {
+		   ;
+	  },
+	  loaded: function(img, loaded, total) {
+		   ;
+	  },
+	  loaded_all: function(loaded, total) {
+		   $(""#s1"").show();
+		   startcarosuel();
+		   
+	  }
+	 });
+});
+}
+var imgcount=37;
+/// end of image loading code
+$(document).ready(function() {
+	if(manager=='yes' || !preload){
+		 $(""#s1"").show();
+		startcarosuel();
+	}
+
+});
+-->
+</script>
+</div>
+<div class=""fourBox_area"">
+<div class=""fourBox"">
+<div id=""content"">
+<div class=""mosaic-block bar2"">
+<a class=""mosaic-overlay"" href=""ethiopia-clean-water-project.html"">
+<div class=""details"">
+<h4>Featured: Ethiopia Clean Water</h4>
+<p>Hydraid® filters cut CO2 emissions and provide safe drinking water for families and communities.</p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>
+<div class=""mosaic-backdrop""><img alt=""Featured: Ethiopia Clean Water"" src=""assets/images/Home/ethiopia-clean-water-featured.jpg""/></div>
+</div>
+<div class=""clearfix""></div>
+</div>
+</div>
+<div class=""fourBox"">
+<div id=""content"">
+<div class=""mosaic-block bar2"">
+<a class=""mosaic-overlay"" href=""shenandoah-school-wind-project.html"">
+<div class=""details"">
+<h4>Indiana School Wind</h4>
+<p>Help fund wind energy at schools and provide hands-on renewable training for students.</p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>
+<div class=""mosaic-backdrop""><img alt=""Indiana School Wind"" src=""assets/images/Home/Boxes_Home_Indiana_Featured.jpg""/></div>
+</div>
+<div class=""clearfix""></div>
+</div>
+</div>
+<div class=""fourBox"">
+<div id=""content"">
+<div class=""mosaic-block bar2"">
+<a class=""mosaic-overlay"" href=""carbon-software.html"">
+<div class=""details"">
+<h4>Carbon Software</h4>
+<p>Comprehensively calculate <br/>and report your company's greenhouse gas emissions. </p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>
+<div class=""mosaic-backdrop""><img alt=""Carbon Software"" src=""assets/images/Home/Boxes_Home_Carbon_Software.jpg""/></div>
+</div>
+<div class=""clearfix""></div>
+</div>
+</div>
+<div class=""fourBox"">
+<div id=""content"">
+<div class=""mosaic-block bar2"">
+<a class=""mosaic-overlay"" href=""services-for-businesses.html"">
+<div class=""details"">
+<h4>The Services We Offer</h4>
+<p>We help leaders in corporate social responsibility reduce their greenhouse gas emissions and build strong, sustainable brands. </p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>
+<div class=""mosaic-backdrop""><img alt=""The Services We Offer"" src=""assets/images/Home/Boxes_Home_Services.jpg""/></div>
+</div>
+<div class=""clearfix""></div>
+</div>
+</div>
+</div>
+<div class=""latestNews_area"">
+<a href=""blog.html""><img class=""recent-news"" src=""images/recent-news.gif""/></a>
+<a href=""blog.html""><img alt=""Visit the Blog"" class=""visit-blog"" src=""images/visit-the-blog.gif""/></a>
+<div class=""clear""></div>
+<div class=""latesNews_middle"">
+<div class=""scroll-pane"">
+<div class=""latesNews"">
+<h4><a href=""jeff-bernicke-named-ceo-of-nativeenergy.html"">Jeff Bernicke Named CEO of <i>Native</i>Energy</a></h4>
+<p>
+                        
+			Will lead company in next phase of growth through expansion of impact investment practice to deliver shared value to businesses
+			<br/><span><a href=""jeff-bernicke-named-ceo-of-nativeenergy.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""sustainable-brands-14-conference-our-take-away1.html"">Sustainable Brands ’14 Conference: Our Take-Away</a></h4>
+<p>
+                        
+			Back in our lakeside Vermont office, we are reflecting on a few key takeaways from the Sustainable Brands ’14 Conference last week in San Diego. 
+			<br/><span><a href=""sustainable-brands-14-conference-our-take-away1.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""supply-chain-sustainability-in-action-ben-jerrys-linked-prosperity1.html"">Supply Chain Sustainability in Action: Ben &amp; Jerry’s Linked Prosperity </a></h4>
+<p>
+                        
+			Here’s one more reason to dig into some Ben &amp; Jerry’s Cherry Garcia:  they provided critical funding for a greenhouse gas emissions reduction project on a picturesque Vermont dairy farm.
+			<br/><span><a href=""supply-chain-sustainability-in-action-ben-jerrys-linked-prosperity1.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""designtex-helps-fund-reforestation-project.html"">Designtex Helps Fund Reforestation Project:</a></h4>
+<p>
+                        
+			On this Earth Day, we are celebrating funding from Designtex for the Oka Trees of Hope Reforestation Project.
+			<br/><span><a href=""designtex-helps-fund-reforestation-project.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""world-water-day-is-saturday-march-221.html"">World Water Day is Saturday March 22!</a></h4>
+<p>
+                        
+			According to the World Health Organization, 2 million deaths worldwide are attributable to unsafe water, sanitation and hygiene.
+			<br/><span><a href=""world-water-day-is-saturday-march-221.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""nativeenergy-carbon-offset-report-for-sustainable-brands-20131.html"">NativeEnergy Carbon Offset Report for Sustainable Brands 2013</a></h4>
+<p>
+                        
+			For three years we have been the official carbon offset and renewable energy sponsor of Sustainable Brands events.
+			<br/><span><a href=""nativeenergy-carbon-offset-report-for-sustainable-brands-20131.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""aveda-and-eileen-fisher-enable-new-wind-energy-project-at-indiana-school-with-purchase-of-nativeenergy-carbon-offsets1.html"">Aveda and EILEEN FISHER Enable New Wind Energy Project at Indiana School with Purchase of <i>Native</i>Energy Carbon Offsets</a></h4>
+<p>
+                        
+			13,000 metrics tons of carbon emissions to be reduced with 900kW turbine at K-12 school.
+			<br/><span><a href=""aveda-and-eileen-fisher-enable-new-wind-energy-project-at-indiana-school-with-purchase-of-nativeenergy-carbon-offsets1.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""nativeenergy-announces-acquisition-of-assets-of-sunone-solutions1.html""><i>Native</i>Energy Announces Acquisition of Assets of SunOne Solutions</a></h4>
+<p>
+                        
+			Expands capacity with sequestration projects for both voluntary and California cap-and-trade carbon markets.
+			<br/><span><a href=""nativeenergy-announces-acquisition-of-assets-of-sunone-solutions1.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""olympic-gold-medalist-hannah-kearney-offsets-training-emissions-with-nativeenergy.html"">Olympic Gold Medalist Hannah Kearney Offsets Training Emissions with NativeEnergy</a></h4>
+<p>
+                        
+			From the Andes to the Alps, Hannah Kearney has traveled thousands of miles training to defend her place on the podium in the 2014 Winter Olympics in Sochi on February 8.
+			<br/><span><a href=""olympic-gold-medalist-hannah-kearney-offsets-training-emissions-with-nativeenergy.html"">Read more &gt;</a></span>
+</p>
+</div>
+<div class=""latesNews"">
+<h4><a href=""5-last-minute-green-holiday-gifts1.html"">5 Last Minute Green Holiday Gifts</a></h4>
+<p>
+                        
+			Give from the heart and your food shed. Visit your local farmers market or co-op to gather locally grown ingredients for easy recipes.
+			<br/><span><a href=""5-last-minute-green-holiday-gifts1.html"">Read more &gt;</a></span>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class=""footer_area"">
+<div class=""footer_container"">
+<div class=""footer"">
+<div class=""footer_row"">
+<div class=""footer_linkBlock"">
+<h2>For Businesses</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/services-for-businesses.html"">Services We Offer</a></li>
+<li class=""""><a href=""/carbon-offsets-for-businesses.html"">Carbon Offsets</a></li>
+<li class=""""><a href=""/carbon-software.html"">Carbon Software</a></li>
+<li class=""""><a href=""/renewable-energy-credits.html"">RECs</a></li>
+<li class=""""><a href=""/marketing-your-actions.html"">Marketing Your Actions</a></li>
+<li class=""""><a href=""/business-carbon-calculator.html"">Small Businesses</a></li>
+<li class=""""><a href=""/case-studies.html"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"">Contact an Advisor</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>For Individuals</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li class=""""><a href=""buy-now"">Buy Carbon Offsets</a></li>
+<li class=""""><a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a></li>
+<li class=""""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last""><a href=""/customer-service1.html"">Customer Service</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Carbon Calculators</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/carbon-software.html"">Carbon Tracking Software</a></li>
+<li class=""""><a href=""/business-carbon-calculator.html"">Business Calculator</a></li>
+<li class=""""><a href=""/household-carbon-calculator.html"">Household Calculator</a></li>
+<li class=""last""><a href=""/travel.html"">Travel Calculator</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Carbon Projects</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/featured-projects.html"">Our Featured Projects</a></li>
+<li class=""""><a href=""/help-build-project-portfolio.html"">Help Build™ Carbon Projects</a></li>
+<li class=""""><a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a></li>
+<li class=""""><a href=""/other-carbon-projects.html"">Other Carbon Projects</a></li>
+<li class=""""><a href=""/project-performance.html"">Project Performance</a></li>
+<li class=""""><a href=""/certifications.html"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"">For Project Developers</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>News &amp; Events</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/blog.html"">Blog</a></li>
+<li class=""""><a href=""/newsletter.html"">Newsletter</a></li>
+<li class=""""><a href=""/press.html"">Press</a></li>
+<li class=""""><a href=""/webinars.html"">Webinars</a></li>
+<li class=""last""><a href=""/events-sponsorships.html"">Events &amp; Sponsorships</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""footer_row"">
+<div class=""footer_linkBlock"">
+<h2>About Us</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/who-we-are.html"">Who We Are</a></li>
+<li class=""""><a href=""/the-team.html"">Team</a></li>
+<li class=""""><a href=""/jobs-internships.html"">Jobs &amp; Internships</a></li>
+<li class=""""><a href=""/frequently-asked-questions.html"">FAQs</a></li>
+<li class=""""><a href=""/b-corp-certification.html"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Contact Us</h2>
+<p><em>Native</em>Energy, Inc.<br/>
+3 Main Street, Suite 212<br/>
+Burlington, VT 05401<br/>
+1-800-924-6826</p>
+<p><a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a></p>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Join Our Mailing List</h2>
+<p>
+<a class=""newsletter-lightbox-button"" href=""#newsletter-lightbox"">
+<img alt=""Sign up for our newsletter"" src=""/images/newsletter_signup_btn.png""/>
+</a>
+</p>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Stay Informed</h2>
+<div class=""icons"">
+<a href=""http://www.facebook.com/nativeenergy"" onmouseout=""document.facebook.src='images/icon-facebook.png'"" onmouseover=""document.facebook.src='images/icon-facebook-hover.png'"" target=""_blank""><img alt=""Facebook"" name=""facebook"" src=""images/icon-facebook.png""/></a><a href=""http://www.linkedin.com/company/nativeenergy-inc"" onmouseout=""document.linkedin.src='images/icon-linked-in.png'"" onmouseover=""document.linkedin.src='images/icon-linked-in-hover.png'"" target=""_blank""><img alt=""Linked In"" name=""linkedin"" src=""images/icon-linked-in.png""/></a><a href=""http://twitter.com/#!/nativeenergy"" onmouseout=""document.tweeter.src='images/icon-tweeter.png'"" onmouseover=""document.tweeter.src='images/icon-tweeter-hover.png'"" target=""_blank""><img alt=""Tweeter"" name=""tweeter"" src=""images/icon-tweeter.png""/></a><a href=""http://vimeo.com/user3897796/videos"" onmouseout=""document.v.src='images/icon-v.png'"" onmouseover=""document.v.src='images/icon-v-hover.png'"" target=""_blank""><img alt=""V"" name=""v"" src=""images/icon-v.png""/></a>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Certified</h2>
+<div class=""icons"">
+<a href=""http://www.nativeenergy.com/b-corp-certification.html""><img alt=""BCorp"" name=""vbrs"" src=""images/A_BCorp_logo_NEG2.png""/></a>
+</div>
+</div>
+</div>
+<div class=""footer_bottomArea"">
+<div class=""footer_bottomLinks"">
+<ul id=""bottom_footer"">
+<li><a href=""frequently-asked-questions.html"" title=""Help"">Help</a></li>
+<li><a href=""/site-map.html"" title=""Site Map"">Site Map</a></li>
+<li><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+<li><a href=""/privacy-policy.html"" title=""Privacy Policy"">Privacy Policy</a></li>
+<li><a href=""/terms-conditions.html"" title=""Terms &amp; Conditions"">Terms &amp; Conditions</a></li>
+<li class=""last""><a href=""/blog.html"" title=""Blog"">Blog</a></li>
+</ul>
+</div>
+<div class=""copyright"">© 2017 <em>Native</em>Energy, Inc. All rights reserved.</div>
+<div class=""share"">
+<div class=""addthis_toolbox addthis_default_style "">
+<a class=""addthis_button_compact"" href=""http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ec0f5684d78f2aa"">Share:</a>
+<a class=""addthis_button_preferred_3""></a>
+<a class=""addthis_button_preferred_4""></a>
+</div>
+<script src=""http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ec0f5684d78f2aa"" type=""text/javascript""></script>
+</div>
+</div>
+<script type=""text/javascript"">
+$(document).ready(function(){
+ $(""ul#buynow li .sub"").css({'opacity':'0'}); //Fade sub nav to 0 opacity on default
+$(""ul#buynow li"").hoverIntent(megaHoverOver,megaHoverOut); 
+});
+Cufon.now();
+</script>
+</div>
+</div>
+<div class=""clear""></div>
+</div><!-- end #container -->
+<div class=""clear""></div>
+<div style=""display:none;"">
+<div class=""lightbox-form"" id=""contact-lightbox"">
+<p class=""error""></p>
+<div class=""contact"">
+<form action=""home.html"" id=""contact_form"" method=""post"" name=""contact_form"">
+<fieldset>
+<h3>How Can We Help You?</h3>
+<input name=""formid"" type=""hidden"" value=""contact_form""/>
+<div class=""left-side"">
+<label for=""cfName"">*First Name</label>
+<input class=""text"" id=""cfFirstName"" name=""first-name"" type=""text"" value=""""/>
+</div>
+<div class=""right-side"">
+<label for=""cfName"">*Last Name</label>
+<input class=""text"" id=""cfLastName"" name=""last-name"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfEmail"">*Email</label>
+<input class=""text"" id=""cfEmail"" name=""email"" type=""text"" value=""""/>
+</div>
+<div class=""right-side"">
+<label for=""cfPhone"">Phone:</label>
+<input class=""text"" id=""cFPhone"" name=""phone"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfBusiness"">Business Name:</label>
+<input class=""text business"" id=""cFBusiness"" name=""business-name"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<h4>I'm interested in:</h4>
+<div class=""checkboxes"">
+<input name=""interested-in[]"" type=""checkbox"" value=""calculating my footprint""/><label class=""check"" for=""interested"">calculating my footprint</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""learning about offsets""/><label class=""check"" for=""interested"">learning about offsets</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""purchasing offsets""/><label class=""check"" for=""interested"">purchasing offsets</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""learning about projects""/><label class=""check"" for=""interested"">learning about projects</label>
+<br/>
+<input name=""interested-in[]"" type=""checkbox"" value=""other""/><label class=""check"" for=""interested"">other</label>
+</div>
+<div class=""clear""></div>
+<label for=""cfMessage"">*Message:</label>
+<textarea class=""textarea"" id=""cfMessage"" name=""message""></textarea>
+<p class=""first"">
+<strong>If you prefer to connect with us directly</strong>, individuals may reach customer service at 1-800-924-6826. Businesses, dial ext 203 to speak with Joe Tyson.
+					</p>
+<p>
+<strong>Sign up for updates</strong> to hear about projects, climate news, and sustainability tips: <input name=""newsletter[]"" type=""checkbox"" value=""Yes""/>
+</p>
+<div class=""special"">
+<label for=""cfSpecial"">
+<p>Special<br/><input class=""text"" id=""cfSpecial"" name=""special"" type=""text"" value=""""/></p>
+</label>
+</div>
+<input class=""submit"" id=""cfContact"" name=""contact"" src=""/images/submit-contact-lighbox.jpg"" type=""image""/>
+<div class=""required"">*Required Field</div>
+<div class=""clear""></div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<script>
+	$(function() {
+		$(""#topnav > li.last a"").colorbox({inline:true, width:""380px"", close: ""X"", className: ""contact""});
+	});
+</script>
+<div style=""display:none;"">
+<div class=""lightbox-form"" id=""newsletter-lightbox"">
+<form action=""http://oi.vresp.com?fid=08ae1f5761"" id=""newsletter_form"" method=""post"" name=""newsletter_form"">
+<h3>Newsletter Sign-Up</h3>
+<div class=""left-side"">
+<label for=""cfName"">*First Name</label>
+<input class=""text"" id=""cfFirstName"" name=""first_name"" type=""text""/>
+</div>
+<div class=""right-side"">
+<label for=""cfName"">*Last Name</label>
+<input class=""text"" id=""cfLastName"" name=""last_name"" type=""text""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfEmail"">*Email</label>
+<input class=""text"" id=""cfEmail"" name=""email_address"" type=""text""/>
+</div>
+<div class=""clear""></div>
+<h4>Which newsletter would you like?</h4>
+<div class=""checkboxes business_radio_container"">
+<label>Business</label><input checked=""checked"" id=""business_radio_lightbox"" name=""which_newsletter"" type=""radio"" value=""business""/>
+<label>Individual</label><input id=""individual_radio_lightbox"" name=""which_newsletter"" type=""radio"" value=""individual""/>
+</div>
+<div class=""clear""></div>
+<input class=""submit biz_submit"" id=""cfContact"" name=""contact"" src=""/images/submit-contact-lighbox.jpg"" type=""image"" value=""""/>
+<div class=""required"">*Required Fields</div>
+<div class=""clear""></div>
+</form>
+</div>
+</div>
+<script>
+        $(function() {            
+            $("".newsletter-lightbox-button"").colorbox({inline:true, width:""380px"", close: ""X"", className: ""contact""});   
+			$('.biz_submit').click(function() {
+				if ($(""input#business_radio_lightbox"").is(':checked')) {
+					//send to business list
+					//alert(""business is checked!"");
+					$(""#newsletter_form"").prop(""action"", ""http://oi.vresp.com?fid=08ae1f5761"");
+				}
+				else if ($(""input#individual_radio_lightbox"").is(':checked')) {
+				  //send to individual list
+				  //alert(""indy is checked!"");
+				  $(""#newsletter_form"").prop(""action"", ""http://oi.vresp.com?fid=10da03aeed"");
+				}
+			});        
+        });
+</script>
+</div></body>
+</html>",OK,200,NativeEnergy | Your Climate Solutions Expert,44,SHORT,https://nativeenergy.com/,"[<a href=""home.html""><img alt=""Native Energy - Your Climate Solutions Expert"" class=""logo"" src=""images/logo-new.png"" title=""Native Energy - Your Climate Solutions Expert""/></a>, <a class=""first"" href=""https://nativeenergy.foxycart.com/cart?cart=updateinfo"">Sign In</a>, <a class=""last"" href=""https://nativeenergy.foxycart.com/cart?cart=view"">Cart</a>, <a href=""/services-for-businesses.html"" id=""for-businesses"">For Businesses</a>, <a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"" id=""carbon-offsets-for-businesses"">Carbon Offsets</a>, <a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a>, <a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a>, <a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"" id=""renewable-energy-credits"">RECs</a>, <a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a>, <a href=""/marketing-your-actions.html"">Marketing Your Actions</a>, <a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a>, <a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a>, <a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a>, <a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a>, <a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"" id=""for-individuals"">For Individuals</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a>, <a href=""/carbon-calculators.html"" id=""carbon-calculators"">Carbon Calculators</a>, <a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a>, <a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a>, <a href=""/featured-projects.html"" id=""carbon-projects"">Carbon Projects</a>, <a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"" id=""help-build-project-portfolio"">Help Build™ Carbon Projects</a>, <a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a>, <a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a>, <a href=""/oka.html"" title=""Forestry"">Forestry</a>, <a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a>, <a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a>, <a href=""/other.html"" title=""Other"">Other</a>, <a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a>, <a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a>, <a href=""/certifications.html"" title=""Certifications"">Certifications</a>, <a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a>, <a href=""/blog.html"" id=""news-events"">News &amp; Events</a>, <a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a>, <a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a>, <a href=""/press.html"" id=""press"">Press</a>, <a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a>, <a href=""/webinars.html"" title=""Webinars"">Webinars</a>, <a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a>, <a href=""who-we-are"" id=""about-us2"">About Us</a>, <a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a>, <a href=""/the-team.html"" title=""Team"">Team</a>, <a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a>, <a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""#contact-lightbox"">Contact Us</a>, <a class=""buy-button"" href=""#"">Buy Now</a>, <a href=""buy-now.html"">Learn more</a>, <a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html"">Ethiopia Clean Water</a>, <a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html""><img alt=""Ethiopia Clean Water"" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>, <a href=""terms-conditions.html"">Terms and Conditions</a>, <a href=""718"">Ethiopia Clean Water</a>, <a href=""718""><img alt="""" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>, <a href=""56.html"">Terms and Conditions</a>, <a class=""static-link-wrapper"" href=""http://www.nativeenergy.com/cleanwater.html"">
+<div class=""static-banner"" style=""background: url(assets/images/Home/helen.jpg) no-repeat top left;"">
+<div class=""banner-text"">
+<h2>Fund Clean Water,<br/>Cut Carbon Emissions</h2>
+<h3>Provide clean water for less than<br/>a penny per liter and improve the <br/>lives of thousands</h3>
+<img alt=""Learn more"" class=""learn-more-static"" src=""images/btn-learn-more.png""/>
+</div>
+</div>
+</a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/160112_EFFECT_logo2_45pix.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/160112_EFFECT_logo2_45pix_bw.png"" width=""45""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132646_Home_benjerry.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132646_Home_benjerry_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132712_Home_bestbuy.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132712_Home_bestbuy_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132633_Home_aveda.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132633_Home_aveda_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/115623_Home_kgm.png""><img alt=""KGM"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/115623_Home_kgm_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133440_Home_stonyfield.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133440_Home_stonyfield_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132758_Home_clifbar.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132758_Home_clifbar_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132611_Home_annies.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132611_Home_annies_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132856_Home_curtis.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132856_Home_curtis_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132923_Home_dmb.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132923_Home_dmb_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132952_Home_eileenfisher.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132952_Home_eileenfisher_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/185359_Logo_Black_650x400_3.jpg""><img alt=""EcoEnclose"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/185359_Logo_Black_650x400_3.jpg"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/104728_Home_esurance.png""><img alt=""esurance"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/104728_Home_esurance_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132727_Home_brighterplanet.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132727_Home_brighterplanet_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133101_Home_golite.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133101_Home_golite_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133121_Home_greenamerica.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133121_Home_greenamerica_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133141_Home_interface.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133141_Home_interface_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133203_Home_livenation.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133203_Home_livenation_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133222_Home_natgeo.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133222_Home_natgeo_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133240_Home_nrdc.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133240_Home_nrdc_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""""><img alt=""Minnesota Orchestra"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/200219_MNO_CMYK_H.jpg"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133255_Home_nwf.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133255_Home_nwf_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133310_Home_reverb.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133310_Home_reverb_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133325_Home_sacnas.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133325_Home_sacnas_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133349_Home_smartwool.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133349_Home_smartwool_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/132740_Home_clark.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/132740_Home_clark_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/133500_Home_timberland.png""><img alt="""" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/133500_Home_timberland_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/194412_Newlogo.png""><img alt=""ePantry"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/194412_epantry_b_and_w.png"" width=""100""/></a>, <a class=""thumb"" href=""http://www.xanterra.com/2011-sustainability-report-8404.html"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/104716_Home_xanterra.png"" target=""_blank""><img alt=""Xanterra"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/104716_Home_xanterra_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/165838_Home_haworth.png""><img alt=""Haworth"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/165838_Home_haworth_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/153030_Home_partnerre.png""><img alt=""Partner Re"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/153030_Home_partnerre_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/101024_Home_vitalchoice.png""><img alt=""Vitalchoice"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/101024_Home_vitalchoice_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/112433_Home_clymb.png""><img alt=""The Clymb"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/112433_Home_clymb_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/170451_Home_cone.png""><img alt=""Cone"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/170451_Home_cone_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/151627_Home_designtex.png""><img alt=""Designtex"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/151627_Home_designtex_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/163413_Home_recyclebank.png""><img alt=""Recyclebank"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/163413_Home_recyclebank_bw.png"" width=""100""/></a>, <a class=""thumb"" href=""javascript:void(0)"" rel=""/assets/snippets/custom_gallery/logorollover/images/home/original/110018_Home_fsc.png""><img alt=""FSC"" class=""thumbuptpl"" src=""/assets/snippets/custom_gallery/logorollover/images/home/original/110018_Home_fsc_bw.png"" width=""100""/></a>, <a class=""mosaic-overlay"" href=""ethiopia-clean-water-project.html"">
+<div class=""details"">
+<h4>Featured: Ethiopia Clean Water</h4>
+<p>Hydraid® filters cut CO2 emissions and provide safe drinking water for families and communities.</p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>, <a class=""mosaic-overlay"" href=""shenandoah-school-wind-project.html"">
+<div class=""details"">
+<h4>Indiana School Wind</h4>
+<p>Help fund wind energy at schools and provide hands-on renewable training for students.</p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>, <a class=""mosaic-overlay"" href=""carbon-software.html"">
+<div class=""details"">
+<h4>Carbon Software</h4>
+<p>Comprehensively calculate <br/>and report your company's greenhouse gas emissions. </p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>, <a class=""mosaic-overlay"" href=""services-for-businesses.html"">
+<div class=""details"">
+<h4>The Services We Offer</h4>
+<p>We help leaders in corporate social responsibility reduce their greenhouse gas emissions and build strong, sustainable brands. </p>
+<img alt=""more"" src=""images/btn-more.png""/>
+</div>
+</a>, <a href=""blog.html""><img class=""recent-news"" src=""images/recent-news.gif""/></a>, <a href=""blog.html""><img alt=""Visit the Blog"" class=""visit-blog"" src=""images/visit-the-blog.gif""/></a>, <a href=""jeff-bernicke-named-ceo-of-nativeenergy.html"">Jeff Bernicke Named CEO of <i>Native</i>Energy</a>, <a href=""jeff-bernicke-named-ceo-of-nativeenergy.html"">Read more &gt;</a>, <a href=""sustainable-brands-14-conference-our-take-away1.html"">Sustainable Brands ’14 Conference: Our Take-Away</a>, <a href=""sustainable-brands-14-conference-our-take-away1.html"">Read more &gt;</a>, <a href=""supply-chain-sustainability-in-action-ben-jerrys-linked-prosperity1.html"">Supply Chain Sustainability in Action: Ben &amp; Jerry’s Linked Prosperity </a>, <a href=""supply-chain-sustainability-in-action-ben-jerrys-linked-prosperity1.html"">Read more &gt;</a>, <a href=""designtex-helps-fund-reforestation-project.html"">Designtex Helps Fund Reforestation Project:</a>, <a href=""designtex-helps-fund-reforestation-project.html"">Read more &gt;</a>, <a href=""world-water-day-is-saturday-march-221.html"">World Water Day is Saturday March 22!</a>, <a href=""world-water-day-is-saturday-march-221.html"">Read more &gt;</a>, <a href=""nativeenergy-carbon-offset-report-for-sustainable-brands-20131.html"">NativeEnergy Carbon Offset Report for Sustainable Brands 2013</a>, <a href=""nativeenergy-carbon-offset-report-for-sustainable-brands-20131.html"">Read more &gt;</a>, <a href=""aveda-and-eileen-fisher-enable-new-wind-energy-project-at-indiana-school-with-purchase-of-nativeenergy-carbon-offsets1.html"">Aveda and EILEEN FISHER Enable New Wind Energy Project at Indiana School with Purchase of <i>Native</i>Energy Carbon Offsets</a>, <a href=""aveda-and-eileen-fisher-enable-new-wind-energy-project-at-indiana-school-with-purchase-of-nativeenergy-carbon-offsets1.html"">Read more &gt;</a>, <a href=""nativeenergy-announces-acquisition-of-assets-of-sunone-solutions1.html""><i>Native</i>Energy Announces Acquisition of Assets of SunOne Solutions</a>, <a href=""nativeenergy-announces-acquisition-of-assets-of-sunone-solutions1.html"">Read more &gt;</a>, <a href=""olympic-gold-medalist-hannah-kearney-offsets-training-emissions-with-nativeenergy.html"">Olympic Gold Medalist Hannah Kearney Offsets Training Emissions with NativeEnergy</a>, <a href=""olympic-gold-medalist-hannah-kearney-offsets-training-emissions-with-nativeenergy.html"">Read more &gt;</a>, <a href=""5-last-minute-green-holiday-gifts1.html"">5 Last Minute Green Holiday Gifts</a>, <a href=""5-last-minute-green-holiday-gifts1.html"">Read more &gt;</a>, <a href=""/services-for-businesses.html"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"">Carbon Offsets</a>, <a href=""/carbon-software.html"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"">RECs</a>, <a href=""/marketing-your-actions.html"">Marketing Your Actions</a>, <a href=""/business-carbon-calculator.html"">Small Businesses</a>, <a href=""/case-studies.html"">Case Studies</a>, <a href=""/contact-an-advisor.html"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"">Customer Service</a>, <a href=""/carbon-software.html"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"">Household Calculator</a>, <a href=""/travel.html"">Travel Calculator</a>, <a href=""/featured-projects.html"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"">Help Build™ Carbon Projects</a>, <a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"">Other Carbon Projects</a>, <a href=""/project-performance.html"">Project Performance</a>, <a href=""/certifications.html"">Certifications</a>, <a href=""/for-project-developers.html"">For Project Developers</a>, <a href=""/blog.html"">Blog</a>, <a href=""/newsletter.html"">Newsletter</a>, <a href=""/press.html"">Press</a>, <a href=""/webinars.html"">Webinars</a>, <a href=""/events-sponsorships.html"">Events &amp; Sponsorships</a>, <a href=""/who-we-are.html"">Who We Are</a>, <a href=""/the-team.html"">Team</a>, <a href=""/jobs-internships.html"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"">FAQs</a>, <a href=""/b-corp-certification.html"">B Corp Certification</a>, <a href=""/contact-us.html"">Contact Us</a>, <a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a>, <a class=""newsletter-lightbox-button"" href=""#newsletter-lightbox"">
+<img alt=""Sign up for our newsletter"" src=""/images/newsletter_signup_btn.png""/>
+</a>, <a href=""http://www.facebook.com/nativeenergy"" onmouseout=""document.facebook.src='images/icon-facebook.png'"" onmouseover=""document.facebook.src='images/icon-facebook-hover.png'"" target=""_blank""><img alt=""Facebook"" name=""facebook"" src=""images/icon-facebook.png""/></a>, <a href=""http://www.linkedin.com/company/nativeenergy-inc"" onmouseout=""document.linkedin.src='images/icon-linked-in.png'"" onmouseover=""document.linkedin.src='images/icon-linked-in-hover.png'"" target=""_blank""><img alt=""Linked In"" name=""linkedin"" src=""images/icon-linked-in.png""/></a>, <a href=""http://twitter.com/#!/nativeenergy"" onmouseout=""document.tweeter.src='images/icon-tweeter.png'"" onmouseover=""document.tweeter.src='images/icon-tweeter-hover.png'"" target=""_blank""><img alt=""Tweeter"" name=""tweeter"" src=""images/icon-tweeter.png""/></a>, <a href=""http://vimeo.com/user3897796/videos"" onmouseout=""document.v.src='images/icon-v.png'"" onmouseover=""document.v.src='images/icon-v-hover.png'"" target=""_blank""><img alt=""V"" name=""v"" src=""images/icon-v.png""/></a>, <a href=""http://www.nativeenergy.com/b-corp-certification.html""><img alt=""BCorp"" name=""vbrs"" src=""images/A_BCorp_logo_NEG2.png""/></a>, <a href=""frequently-asked-questions.html"" title=""Help"">Help</a>, <a href=""/site-map.html"" title=""Site Map"">Site Map</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""/privacy-policy.html"" title=""Privacy Policy"">Privacy Policy</a>, <a href=""/terms-conditions.html"" title=""Terms &amp; Conditions"">Terms &amp; Conditions</a>, <a href=""/blog.html"" title=""Blog"">Blog</a>, <a class=""addthis_button_compact"" href=""http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ec0f5684d78f2aa"">Share:</a>]"
+https://nativeenergy.com/customer-service1.html,text/html; charset=UTF-8,"Thu, 09 Nov 2017 01:47:39 GMT",http://www.nativeenergy.com/customer-service1.html,"Your Climate Solutions Expert: carbon offsets, renewable energy credits, and carbon tracking services",101,GOOD,"{'Date': 'Thu, 09 Nov 2017 01:47:39 GMT', 'Server': 'Apache', 'X-Powered-By': 'PHP/5.5.38', 'P3P': 'CP=""NOI NID ADMa OUR IND UNI COM NAV""', 'Cache-Control': 'private, must-revalidate', 'Set-Cookie': 'evo1mb1hmf=4ed6c96e2c1510339128341f26083041; path=/, evo1mb1hmf=4ed6c96e2c1510339128341f26083041; path=/; httponly', 'Keep-Alive': 'timeout=5, max=100', 'Connection': 'Keep-Alive', 'Transfer-Encoding': 'chunked', 'Content-Type': 'text/html; charset=UTF-8'}",HTTP,[Missing meta description],0,TOO SHORT,,0,0,11,0,11,False,NONE,922.576,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta content=""text/html; charset=utf-8"" http-equiv=""content-type""/>
+<meta content=""IE=EmulateIE8"" http-equiv=""X-UA-Compatible""/>
+<meta content="""" name=""keywords""/>
+<meta content="""" name=""description""/>
+<link href=""favicon.ico"" rel=""shortcut icon""/>
+<title>Customer Service | NativeEnergy</title>
+<link href=""style/style.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/slider_inner.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/colorbox.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/jquery.jscrollpane.css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/jquery.jscrollpane.lozenge.css"" rel=""stylesheet"" type=""text/css""/>
+<!--[if lt IE 9]>
+        <link rel=""stylesheet"" type=""text/css"" href=""ie8-and-below.css"" />
+<![endif]-->
+<script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"" type=""text/javascript""></script>
+<script charset=""utf-8"" src=""js/foxycart.js"" type=""text/javascript""></script>
+<script src=""js/foxycart.cart.open.js"" type=""text/javascript""></script>
+<script src=""js/cufon-yui.js"" type=""text/javascript""></script>
+<script src=""js/cufon-replace.js"" type=""text/javascript""></script>
+<script src=""js/WhitenyHTF_400-WhitenyHTF_700.font.js"" type=""text/javascript""></script>
+<script src=""js/jquery.jcarousel.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.easing.1.3.js"" type=""text/javascript""></script>
+<script src=""js/jquery.hoverIntent.minified.js"" type=""text/javascript""></script>
+<script src=""js/mega-menu.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.mousewheel.js"" type=""text/javascript""></script>
+<script src=""js/jquery.jscrollpane.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.cycle.all.js"" type=""text/javascript""></script>
+<script src=""js/jquery.defaultvalue.js"" type=""text/javascript""></script>
+<script src=""js/external-links.js"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+$(document).ready(function() {
+$("".accordion-toggler"").toggle(function() {
+        $(this).next().slideToggle();
+	$(this).removeClass(""blue"");
+        $(this).addClass(""orange"");
+}, function() {
+        $(this).next().slideToggle();
+	$(this).removeClass(""orange"");
+        $(this).addClass(""blue"");
+}).next().hide().css('margin-bottom', '25px');
+    $("".card_images"").colorbox({rel:'card_images'});	
+    $("".lightbox"").colorbox({rel:'lightbox'});
+    startcarosuel=function(){ 
+    $('#mycarousel').jcarousel({
+    	wrap: 'circular',
+	scroll:4
+    });
+    }	
+});
+</script>
+<script type=""text/javascript"">
+$(function() {
+
+    $('#testimonials').cycle({
+        fx:      'fade', /*scrollHorz */
+        timeout:  0,
+        prev:    '#prev',
+        next:    '#next',
+		prevNextEvent:'click.cycle',
+		speed:    500    
+	});
+    
+});
+</script>
+<script id=""sourcecode"" type=""text/javascript"">
+	$(function()
+	{
+		$('.scroll-pane').jScrollPane();
+		$('.scroll-pane-arrows').jScrollPane(
+			{
+				showArrows: true,
+				horizontalGutter: 10
+			}
+		);			
+	});
+</script>
+<script type=""text/javascript"">
+	/* BUY NOW FORM */
+	function showProject(value){
+		$('.buynow_right').hide();
+		$('.descr').hide();
+		$(""#""+value).show();
+		$(""#""+value+""_description"").show();
+	}			
+	function setOneTime(){
+		$(""#bn_name"").val('Carbon Offset');
+		$(""#bn_price"").val('14');	
+		$(""#bn_code"").val('one_time');
+		$(""#bn_option_blend"").val(null);
+		$(""#bn_option"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val('$14 per ton.');	
+	}	
+	function setMonthly(){
+		$(""#bn_name"").val('Monthly Carbon Offset');
+		$(""#bn_price"").val('1.17');	
+		$(""#bn_code"").val('monthly');
+		$(""#bn_option"").val(null);		
+		$(""#bn_option_blend"").val('Ethiopia Clean Water');	
+		$(""#bn_onetime_price"").val(null);
+	}
+	/* BUY NOW PAGE */
+	function showProjectPage(value){
+		$('.buynow_right_page').hide();
+		$('.descr_page').hide();
+		$(""#""+value).show();
+		$(""#""+value+""_description"").show();
+	}	
+	function setOneTimePage(){
+		$(""#bn_name_page"").val('Carbon Offset');
+		$(""#bn_price_page"").val('14');	
+		$(""#bn_code_page"").val('one_time');
+		$(""#bn_option_blend_page"").val(null);
+		$(""#bn_option_page"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val('$14 per ton.');	
+	}	
+	function setMonthlyPage(){
+		$(""#bn_name_page"").val('Monthly Carbon Offset');
+		$(""#bn_price_page"").val('1.17');	
+		$(""#bn_code_page"").val('monthly');
+		$(""#bn_option_page"").val(null);
+		$(""#bn_option_blend_page"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val(null);	
+	}	
+	$(function() {
+		$(""#bn_onetime"").click(function () { 
+		  setOneTime(); 
+		});
+		$(""#bn_monthly"").click(function () { 
+		  setMonthly(); 
+		});
+		$(""#bn_onetime_page"").click(function () { 
+		  setOneTimePage(); 
+		});
+		$(""#bn_monthly_page"").click(function () { 
+		  setMonthlyPage(); 
+		});
+		$(""#individual_radio"").click(function () { 
+		  $(""#business_radio"").prop('checked', false);
+		  $("".mailinkList_textfield_business"").css('display', 'none');
+		  $(""#business_submit"").css('display', 'none');
+		  $("".mailinkList_textfield_individual"").css('display', 'block');
+		  $("".mailinkList_textfield_individual"").css('top', '-191px'); 
+		  $(""#individual_submit"").css('display', 'block');
+		});
+		$(""#business_radio"").click(function () { 
+		  $(""#individual_radio"").prop('checked', false); 
+		  $("".mailinkList_textfield_individual"").css('display', 'none'); 
+		  $(""#individual_submit"").css('display', 'none');
+		  $("".mailinkList_textfield_business"").css('display', 'block');
+		  $(""#business_submit"").css('display', 'block');
+		});
+		$(""#individual_radio_page"").click(function () { 
+		  $(""#business_radio_page"").prop('checked', false);
+		  $("".mailinkList_textfield_business_page"").css('display', 'none');
+		  $(""#business_submit_page"").css('display', 'none');
+		  $("".mailinkList_textfield_individual_page"").css('display', 'block');
+		  $(""#individual_submit_page"").css('display', 'block');
+		});
+		$(""#business_radio_page"").click(function () { 
+		  $(""#individual_radio_page"").prop('checked', false); 
+		  $("".mailinkList_textfield_individual_page"").css('display', 'none'); 
+		  $(""#individual_submit_page"").css('display', 'none');
+		  $("".mailinkList_textfield_business_page"").css('display', 'block');
+		  $(""#business_submit_page"").css('display', 'block');
+		});
+	});			
+</script>
+<script type=""text/javascript"">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571974-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script charset=""utf-8"" type=""text/javascript"">
+	fcc.events.cart.preprocess.add(function(e, arr) {
+		if (arr['cart'] == 'checkout' || arr['cart'] == 'updateinfo' || arr['output'] == 'json') {
+			return true;
+		}
+		if (arr['cart'] == 'checkout_paypal_express') {
+			_gaq.push(['_trackPageview', '/paypal_checkout']);
+			return true;
+		}
+		_gaq.push(['_trackPageview', '/cart']);
+		return true;
+	});
+	fcc.events.cart.process.add_pre(function(e, arr) {
+		var pageTracker = _gat._getTrackerByName();
+		jQuery.getJSON('https://' + storedomain + '/cart?' + fcc.session_get() + '&h:ga=' + escape(pageTracker._getLinkerUrl('', true)) + '&output=json&callback=?', function(data){});
+		return true;
+	});
+</script>
+<style type=""text/css"">
+div.errors{ color:#F00;margin-bottom:5px; }
+.invalidValue{ border:1px solid #F00; }
+.requiredValue{ border:1px solid #F00; }
+</style>
+</head>
+<body class=""redux sub"">
+<div id=""container"">
+<div class=""wrapper_inner"">
+<div class=""inner_header"">
+<div class=""top"">
+<a href=""home.html""><img alt=""Native Energy - Your Climate Solutions Expert"" class=""logo"" src=""images/logo-new.png"" title=""Native Energy - Your Climate Solutions Expert""/></a>
+<h1 class=""tagline""><strong>Your Climate Solutions Expert:</strong> carbon offsets, renewable energy credits, and carbon tracking services</h1>
+<div class=""topLink_area"">
+<a class=""first"" href=""https://nativeenergy.foxycart.com/cart?cart=updateinfo"">Sign In</a>
+<img class=""separator"" src=""images/separator.gif""/>
+<a class=""last"" href=""https://nativeenergy.foxycart.com/cart?cart=view"">Cart</a>
+</div>
+<div class=""search_area"">
+<form action=""search-results.html"" id=""ajaxSearch_form"" method=""post"">
+<input name=""advsearch"" type=""hidden"" value=""exactphrase""/>
+<div class=""search"">
+<input class=""searchfield"" id=""ajaxSearch_input"" name=""search"" onfocus=""this.value=(this.value=='Search here...')? '' : this.value ;"" type=""text"" value=""Search here...""/>
+</div>
+<div class=""sarch_btn"">
+<input id=""ajaxSearch_submit"" src=""images/go.gif"" type=""image""/>
+</div>
+</form>
+</div>
+</div>
+<div class=""menu_area"">
+<div class=""menu_container""><div class=""menu"">
+<ul id=""topnav"">
+<li class=""first hide"">
+<a href=""/services-for-businesses.html"" id=""for-businesses"">For Businesses</a>
+<!--[if lte IE 6]>
+        <a  href=""/services-for-businesses.html"">
+            For Businesses
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+<li class=""first""><a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a></li>
+<li class=""hide"">
+<a href=""/carbon-offsets-for-businesses.html"" id=""carbon-offsets-for-businesses"">Carbon Offsets</a>
+<!--[if lte IE 6]>
+        <a  href=""/carbon-offsets-for-businesses.html"">
+            Carbon Offsets
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a></li>
+<li class=""last""><a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li><a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a></li>
+<li class=""hide"">
+<a href=""/renewable-energy-credits.html"" id=""renewable-energy-credits"">RECs</a>
+<!--[if lte IE 6]>
+        <a  href=""/renewable-energy-credits.html"">
+            RECs
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""hide""><a href=""/marketing-your-actions.html"">Marketing Your Actions</a><dl>
+<li class=""first""><a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a></li>
+<li class=""last""><a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a></li>
+</dl></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a></li>
+<li class=""hide""><a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide active"">
+<a href=""/how-carbon-offsets-work.html"" id=""for-individuals"">For Individuals</a>
+<!--[if lte IE 6]>
+        <a  href=""/how-carbon-offsets-work.html"">
+            For Individuals
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+</ul>
+<ul class=""subUl "">
+<li class=""first""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li><a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a></li>
+<li><a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a></li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""hide""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last active""><a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/carbon-calculators.html"" id=""carbon-calculators"">Carbon Calculators</a>
+<!--[if lte IE 6]>
+        <a  href=""/carbon-calculators.html"">
+            Carbon Calculators
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first""><a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a></li>
+<li><a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a></li>
+<li class=""last hide""><a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/featured-projects.html"" id=""carbon-projects"">Carbon Projects</a>
+<!--[if lte IE 6]>
+        <a  href=""/featured-projects.html"">
+            Carbon Projects
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+<li class=""first""><a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a></li>
+<li class=""hide"">
+<a href=""/help-build-project-portfolio.html"" id=""help-build-project-portfolio"">Help Build™ Carbon Projects</a>
+<!--[if lte IE 6]>
+        <a  href=""/help-build-project-portfolio.html"">
+            Help Build&trade; Carbon Projects
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a></li>
+<li><a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a></li>
+<li><a href=""/oka.html"" title=""Forestry"">Forestry</a></li>
+<li><a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a></li>
+<li><a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a></li>
+<li class=""last""><a href=""/other.html"" title=""Other"">Other</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""""><a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a></li>
+<li class=""hide""><a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a></li>
+<li class=""hide""><a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a></li>
+<li class=""hide""><a href=""/certifications.html"" title=""Certifications"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/blog.html"" id=""news-events"">News &amp; Events</a>
+<!--[if lte IE 6]>
+        <a  href=""/blog.html"">
+            News & Events
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first hide""><a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a></li>
+<li class=""hide""><a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a></li>
+<li class=""hide"">
+<a href=""/press.html"" id=""press"">Press</a>
+<!--[if lte IE 6]>
+        <a  href=""/press.html"">
+            Press
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li><a href=""/webinars.html"" title=""Webinars"">Webinars</a></li>
+<li class=""last hide""><a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""who-we-are"" id=""about-us2"">About Us</a>
+<!--[if lte IE 6]>
+        <a  href=""who-we-are"">
+            About Us
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first""><a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a></li>
+<li><a href=""/the-team.html"" title=""Team"">Team</a></li>
+<li><a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a></li>
+<li><a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a></li>
+<li><a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""last""><a href=""#contact-lightbox"">Contact Us</a></li>
+</ul>
+</div></div>
+<div class=""menu_buyNow"">
+<ul id=""buynow"">
+<li><a class=""buy-button"" href=""#"">Buy Now</a>
+<div class=""buynow_box sub"">
+<div class=""buynow_left"">
+<h2>Buy Carbon Offsets</h2>
+<p>
+<span class=""descr"" id=""one_time_description"">Enter the number of carbon tons that you want to offset. <br/></span>
+<span class=""descr"" id=""monthly_description"">Enter the number of carbon tons that you want to offset <br/><strong>per year</strong>.</span>
+</p>
+<form accept-charset=""utf-8"" action=""https://nativeenergy.foxycart.com/cart"" method=""post"">
+<input id=""bn_name"" name=""name"" type=""hidden"" value=""Carbon Offset""/>
+<input id=""bn_code"" name=""code"" type=""hidden"" value=""onetime""/>
+<input id=""bn_option"" name=""Project"" type=""hidden"" value=""Ethiopia Clean Water""/>
+<input id=""bn_option_blend"" name=""Project_Blend"" type=""hidden"" value=""""/>
+<input id=""bn_onetime_price"" name=""Price Per Ton"" type=""hidden"" value=""$14""/>
+<input id=""bn_price"" name=""price"" type=""hidden"" value=""14""/>
+<input id=""bn_pop"" name=""Point of Purchase"" type=""hidden"" value=""Buy Now Dropdown Calculator""/>
+                        One Time <input checked=""checked"" class=""frequency"" id=""bn_onetime"" name=""sub_frequency"" onclick=""showProject('one_time');"" type=""radio"" value=""""/> 
+						Monthly <input class=""frequency"" id=""bn_monthly"" name=""sub_frequency"" onclick=""showProject('monthly');"" type=""radio"" value=""1m""/>
+<div class=""buyNow_field"">
+<input class=""default-value"" id=""tons"" name=""quantity"" type=""text"" value=""Number of Tons""/>
+</div>
+<div class=""btn_buy"">
+<input id=""buy"" name=""x:buy"" src=""images/btn-buy-now.png"" type=""image""/>
+</div>
+</form>
+<div class=""buy_now_learn_more"">
+<p><em><a href=""buy-now.html"">Learn more</a></em></p>
+</div>
+</div>
+<div class=""buynow_right"" id=""one_time"">
+<h2>Your purchase helps build:</h2>
+<h3><a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html"">Ethiopia Clean Water</a></h3>
+<a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html""><img alt=""Ethiopia Clean Water"" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>
+<p>Your offsets will be independently verified to the Verified Carbon Standard over approximately the first nine years of the project’s operations. <a href=""terms-conditions.html"">Terms and Conditions</a></p>
+</div>
+<div class=""buynow_right"" id=""monthly"" style=""display:none;"">
+<h2>Your purchase helps build:</h2>
+<h3><a href=""718"">Ethiopia Clean Water</a></h3>
+<a href=""718""><img alt="""" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>
+<p>Your offsets will be independently verified to the Verified Carbon Standard over approximately the first eight years of the project’s operations. <a href=""56.html"">Terms and Conditions</a></p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""middle_area"">
+<div class=""left"">
+<div class=""left_box"">
+<h2>For Individuals</h2>
+<div class=""leftNav_middle"">
+<div class=""menu_left"">
+<ul>
+<li class=""""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li class=""""><a href=""buy-now"">Buy Carbon Offsets</a></li>
+<li class=""""><a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a></li>
+<li class=""""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last active""><a href=""/customer-service1.html"">Customer Service</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""leftBox_shadow""></div>
+</div>
+<div class=""middle"">
+<div class=""breadcrumbs""><span class=""B_crumbBox""><span class=""B_firstCrumb""><a class=""B_homeCrumb"" href=""/"" title=""NativeEnergy | Your Climate Solutions Expert"">Home</a></span>  »  <a class=""B_crumb"" href=""/for-individuals.html"" title=""For Individuals"">For Individuals</a>  »  <span class=""B_lastCrumb""><span class=""B_currentCrumb"">Customer Service</span></span></span></div>
+<div class=""pageTop_textArea"">
+<div class=""page_topText"">
+<h2>Customer Service</h2>
+<div class=""pageTop_textArea"">
+<div class=""page_topText"">
+<p>Questions or concerns? Check out our <a href=""frequently-asked-questions.html"">FAQs page</a> or contact us directly.</p>
+<h3><a class=""lightbox"" href=""assets/files/Light_Boxes/Customer_Service_Office.png""><img alt="""" height=""129"" src=""assets/images/Body/Thumb_Customer_Service_Office.png"" style=""float: right; margin-left: 50px; margin-right: 50px;"" width=""170""/></a>Headquarters</h3>
+<p><em>Native</em>Energy, Inc.<br/>3 Main Street, Suite 212<br/>Burlington, VT 05401<br/><br/><strong>Tel:</strong> 800-924-6826 x200<strong> </strong><br/><strong>Email:</strong> <a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a></p>
+<p> </p>
+<h3>Join our Mailing List</h3>
+<p>Stay up to date on <em>Native</em>Energy news and events by joining our mailing list.<em> </em><em> </em></p>
+<p><em>Select your list type and enter your email address:<br/></em><form action=""http://oi.vresp.com?fid=2f1c1ce54f"" class=""newsletter_signup_form_page"" method=""post"" onsubmit=""window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;"" target=""vr_optin_popup"">
+<div class=""mailingList_radio_business_page"">
+<label>Business</label><input checked=""checked"" id=""business_radio_page"" name=""Business"" type=""radio""/>
+</div>
+<div class=""mailinkList_textfield_business_page"">
+<input class=""default-value"" id=""business_email_page"" name=""email_address"" value=""Enter Your Email""/>
+</div>
+<input id=""business_submit_page"" src=""images/btn-search-go.png"" type=""image""/>
+</form>
+<form action=""http://oi.vresp.com?fid=ce9041c097"" class=""newsletter_signup_form_page"" method=""post"" onsubmit=""window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;"" target=""vr_optin_popup"">
+<div class=""mailingList_radio_individual_page"">
+<label>Individual</label><input id=""individual_radio_page"" name=""Individual"" type=""radio""/>
+</div>
+<div class=""mailinkList_textfield_individual_page"">
+<input class=""default-value"" id=""individual_email_page"" name=""email_address"" value=""Enter Your Email""/>
+</div>
+<input id=""individual_submit_page"" src=""images/btn-search-go.png"" type=""image""/>
+</form></p>
+</div>
+</div>
+</div>
+</div>
+<div class=""contentBox_area"">
+<div class=""contentBox_row"">
+</div>
+</div>
+<div class=""moreText_bp""></div>
+</div>
+</div>
+</div>
+<div class=""footer_area"">
+<div class=""footer_container"">
+<div class=""footer"">
+<div class=""footer_row"">
+<div class=""footer_linkBlock"">
+<h2>For Businesses</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/services-for-businesses.html"">Services We Offer</a></li>
+<li class=""""><a href=""/carbon-offsets-for-businesses.html"">Carbon Offsets</a></li>
+<li class=""""><a href=""/carbon-software.html"">Carbon Software</a></li>
+<li class=""""><a href=""/renewable-energy-credits.html"">RECs</a></li>
+<li class=""""><a href=""/marketing-your-actions.html"">Marketing Your Actions</a></li>
+<li class=""""><a href=""/business-carbon-calculator.html"">Small Businesses</a></li>
+<li class=""""><a href=""/case-studies.html"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"">Contact an Advisor</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>For Individuals</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li class=""""><a href=""buy-now"">Buy Carbon Offsets</a></li>
+<li class=""""><a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a></li>
+<li class=""""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last active""><a href=""/customer-service1.html"">Customer Service</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Carbon Calculators</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/carbon-software.html"">Carbon Tracking Software</a></li>
+<li class=""""><a href=""/business-carbon-calculator.html"">Business Calculator</a></li>
+<li class=""""><a href=""/household-carbon-calculator.html"">Household Calculator</a></li>
+<li class=""last""><a href=""/travel.html"">Travel Calculator</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Carbon Projects</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/featured-projects.html"">Our Featured Projects</a></li>
+<li class=""""><a href=""/help-build-project-portfolio.html"">Help Build™ Carbon Projects</a></li>
+<li class=""""><a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a></li>
+<li class=""""><a href=""/other-carbon-projects.html"">Other Carbon Projects</a></li>
+<li class=""""><a href=""/project-performance.html"">Project Performance</a></li>
+<li class=""""><a href=""/certifications.html"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"">For Project Developers</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>News &amp; Events</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/blog.html"">Blog</a></li>
+<li class=""""><a href=""/newsletter.html"">Newsletter</a></li>
+<li class=""""><a href=""/press.html"">Press</a></li>
+<li class=""""><a href=""/webinars.html"">Webinars</a></li>
+<li class=""last""><a href=""/events-sponsorships.html"">Events &amp; Sponsorships</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""footer_row"">
+<div class=""footer_linkBlock"">
+<h2>About Us</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/who-we-are.html"">Who We Are</a></li>
+<li class=""""><a href=""/the-team.html"">Team</a></li>
+<li class=""""><a href=""/jobs-internships.html"">Jobs &amp; Internships</a></li>
+<li class=""""><a href=""/frequently-asked-questions.html"">FAQs</a></li>
+<li class=""""><a href=""/b-corp-certification.html"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Contact Us</h2>
+<p><em>Native</em>Energy, Inc.<br/>
+3 Main Street, Suite 212<br/>
+Burlington, VT 05401<br/>
+1-800-924-6826</p>
+<p><a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a></p>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Join Our Mailing List</h2>
+<p>
+<a class=""newsletter-lightbox-button"" href=""#newsletter-lightbox"">
+<img alt=""Sign up for our newsletter"" src=""/images/newsletter_signup_btn.png""/>
+</a>
+</p>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Stay Informed</h2>
+<div class=""icons"">
+<a href=""http://www.facebook.com/nativeenergy"" onmouseout=""document.facebook.src='images/icon-facebook.png'"" onmouseover=""document.facebook.src='images/icon-facebook-hover.png'"" target=""_blank""><img alt=""Facebook"" name=""facebook"" src=""images/icon-facebook.png""/></a><a href=""http://www.linkedin.com/company/nativeenergy-inc"" onmouseout=""document.linkedin.src='images/icon-linked-in.png'"" onmouseover=""document.linkedin.src='images/icon-linked-in-hover.png'"" target=""_blank""><img alt=""Linked In"" name=""linkedin"" src=""images/icon-linked-in.png""/></a><a href=""http://twitter.com/#!/nativeenergy"" onmouseout=""document.tweeter.src='images/icon-tweeter.png'"" onmouseover=""document.tweeter.src='images/icon-tweeter-hover.png'"" target=""_blank""><img alt=""Tweeter"" name=""tweeter"" src=""images/icon-tweeter.png""/></a><a href=""http://vimeo.com/user3897796/videos"" onmouseout=""document.v.src='images/icon-v.png'"" onmouseover=""document.v.src='images/icon-v-hover.png'"" target=""_blank""><img alt=""V"" name=""v"" src=""images/icon-v.png""/></a>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Certified</h2>
+<div class=""icons"">
+<a href=""http://www.nativeenergy.com/b-corp-certification.html""><img alt=""BCorp"" name=""vbrs"" src=""images/A_BCorp_logo_NEG2.png""/></a>
+</div>
+</div>
+</div>
+<div class=""footer_bottomArea"">
+<div class=""footer_bottomLinks"">
+<ul id=""bottom_footer"">
+<li><a href=""frequently-asked-questions.html"" title=""Help"">Help</a></li>
+<li><a href=""/site-map.html"" title=""Site Map"">Site Map</a></li>
+<li><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+<li><a href=""/privacy-policy.html"" title=""Privacy Policy"">Privacy Policy</a></li>
+<li><a href=""/terms-conditions.html"" title=""Terms &amp; Conditions"">Terms &amp; Conditions</a></li>
+<li class=""last""><a href=""/blog.html"" title=""Blog"">Blog</a></li>
+</ul>
+</div>
+<div class=""copyright"">© 2017 <em>Native</em>Energy, Inc. All rights reserved.</div>
+<div class=""share"">
+<div class=""addthis_toolbox addthis_default_style "">
+<a class=""addthis_button_compact"" href=""http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ec0f5684d78f2aa"">Share:</a>
+<a class=""addthis_button_preferred_3""></a>
+<a class=""addthis_button_preferred_4""></a>
+</div>
+<script src=""http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ec0f5684d78f2aa"" type=""text/javascript""></script>
+</div>
+</div>
+<script type=""text/javascript"">
+$(document).ready(function(){
+ $(""ul#buynow li .sub"").css({'opacity':'0'}); //Fade sub nav to 0 opacity on default
+$(""ul#buynow li"").hoverIntent(megaHoverOver,megaHoverOut); 
+});
+Cufon.now();
+</script>
+</div>
+</div>
+</div><!-- end #container -->
+<div class=""clear""></div>
+<div style=""display:none;"">
+<div class=""lightbox-form"" id=""contact-lightbox"">
+<p class=""error""></p>
+<div class=""contact"">
+<form action=""customer-service1.html"" id=""contact_form"" method=""post"" name=""contact_form"">
+<fieldset>
+<h3>How Can We Help You?</h3>
+<input name=""formid"" type=""hidden"" value=""contact_form""/>
+<div class=""left-side"">
+<label for=""cfName"">*First Name</label>
+<input class=""text"" id=""cfFirstName"" name=""first-name"" type=""text"" value=""""/>
+</div>
+<div class=""right-side"">
+<label for=""cfName"">*Last Name</label>
+<input class=""text"" id=""cfLastName"" name=""last-name"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfEmail"">*Email</label>
+<input class=""text"" id=""cfEmail"" name=""email"" type=""text"" value=""""/>
+</div>
+<div class=""right-side"">
+<label for=""cfPhone"">Phone:</label>
+<input class=""text"" id=""cFPhone"" name=""phone"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfBusiness"">Business Name:</label>
+<input class=""text business"" id=""cFBusiness"" name=""business-name"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<h4>I'm interested in:</h4>
+<div class=""checkboxes"">
+<input name=""interested-in[]"" type=""checkbox"" value=""calculating my footprint""/><label class=""check"" for=""interested"">calculating my footprint</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""learning about offsets""/><label class=""check"" for=""interested"">learning about offsets</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""purchasing offsets""/><label class=""check"" for=""interested"">purchasing offsets</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""learning about projects""/><label class=""check"" for=""interested"">learning about projects</label>
+<br/>
+<input name=""interested-in[]"" type=""checkbox"" value=""other""/><label class=""check"" for=""interested"">other</label>
+</div>
+<div class=""clear""></div>
+<label for=""cfMessage"">*Message:</label>
+<textarea class=""textarea"" id=""cfMessage"" name=""message""></textarea>
+<p class=""first"">
+<strong>If you prefer to connect with us directly</strong>, individuals may reach customer service at 1-800-924-6826. Businesses, dial ext 203 to speak with Joe Tyson.
+					</p>
+<p>
+<strong>Sign up for updates</strong> to hear about projects, climate news, and sustainability tips: <input name=""newsletter[]"" type=""checkbox"" value=""Yes""/>
+</p>
+<div class=""special"">
+<label for=""cfSpecial"">
+<p>Special<br/><input class=""text"" id=""cfSpecial"" name=""special"" type=""text"" value=""""/></p>
+</label>
+</div>
+<input class=""submit"" id=""cfContact"" name=""contact"" src=""/images/submit-contact-lighbox.jpg"" type=""image""/>
+<div class=""required"">*Required Field</div>
+<div class=""clear""></div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<script>
+	$(function() {
+		$(""#topnav > li.last a"").colorbox({inline:true, width:""380px"", close: ""X"", className: ""contact""});
+	});
+</script>
+<div style=""display:none;"">
+<div class=""lightbox-form"" id=""newsletter-lightbox"">
+<form action=""http://oi.vresp.com?fid=08ae1f5761"" id=""newsletter_form"" method=""post"" name=""newsletter_form"">
+<h3>Newsletter Sign-Up</h3>
+<div class=""left-side"">
+<label for=""cfName"">*First Name</label>
+<input class=""text"" id=""cfFirstName"" name=""first_name"" type=""text""/>
+</div>
+<div class=""right-side"">
+<label for=""cfName"">*Last Name</label>
+<input class=""text"" id=""cfLastName"" name=""last_name"" type=""text""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfEmail"">*Email</label>
+<input class=""text"" id=""cfEmail"" name=""email_address"" type=""text""/>
+</div>
+<div class=""clear""></div>
+<h4>Which newsletter would you like?</h4>
+<div class=""checkboxes business_radio_container"">
+<label>Business</label><input checked=""checked"" id=""business_radio_lightbox"" name=""which_newsletter"" type=""radio"" value=""business""/>
+<label>Individual</label><input id=""individual_radio_lightbox"" name=""which_newsletter"" type=""radio"" value=""individual""/>
+</div>
+<div class=""clear""></div>
+<input class=""submit biz_submit"" id=""cfContact"" name=""contact"" src=""/images/submit-contact-lighbox.jpg"" type=""image"" value=""""/>
+<div class=""required"">*Required Fields</div>
+<div class=""clear""></div>
+</form>
+</div>
+</div>
+<script>
+        $(function() {            
+            $("".newsletter-lightbox-button"").colorbox({inline:true, width:""380px"", close: ""X"", className: ""contact""});   
+			$('.biz_submit').click(function() {
+				if ($(""input#business_radio_lightbox"").is(':checked')) {
+					//send to business list
+					//alert(""business is checked!"");
+					$(""#newsletter_form"").prop(""action"", ""http://oi.vresp.com?fid=08ae1f5761"");
+				}
+				else if ($(""input#individual_radio_lightbox"").is(':checked')) {
+				  //send to individual list
+				  //alert(""indy is checked!"");
+				  $(""#newsletter_form"").prop(""action"", ""http://oi.vresp.com?fid=10da03aeed"");
+				}
+			});        
+        });
+</script>
+</div></body>
+</html>",OK,200,Customer Service | NativeEnergy,31,SHORT,https://nativeenergy.com/customer-service1.html,"[<a href=""home.html""><img alt=""Native Energy - Your Climate Solutions Expert"" class=""logo"" src=""images/logo-new.png"" title=""Native Energy - Your Climate Solutions Expert""/></a>, <a class=""first"" href=""https://nativeenergy.foxycart.com/cart?cart=updateinfo"">Sign In</a>, <a class=""last"" href=""https://nativeenergy.foxycart.com/cart?cart=view"">Cart</a>, <a href=""/services-for-businesses.html"" id=""for-businesses"">For Businesses</a>, <a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"" id=""carbon-offsets-for-businesses"">Carbon Offsets</a>, <a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a>, <a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a>, <a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"" id=""renewable-energy-credits"">RECs</a>, <a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a>, <a href=""/marketing-your-actions.html"">Marketing Your Actions</a>, <a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a>, <a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a>, <a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a>, <a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a>, <a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"" id=""for-individuals"">For Individuals</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a>, <a href=""/carbon-calculators.html"" id=""carbon-calculators"">Carbon Calculators</a>, <a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a>, <a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a>, <a href=""/featured-projects.html"" id=""carbon-projects"">Carbon Projects</a>, <a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"" id=""help-build-project-portfolio"">Help Build™ Carbon Projects</a>, <a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a>, <a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a>, <a href=""/oka.html"" title=""Forestry"">Forestry</a>, <a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a>, <a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a>, <a href=""/other.html"" title=""Other"">Other</a>, <a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a>, <a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a>, <a href=""/certifications.html"" title=""Certifications"">Certifications</a>, <a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a>, <a href=""/blog.html"" id=""news-events"">News &amp; Events</a>, <a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a>, <a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a>, <a href=""/press.html"" id=""press"">Press</a>, <a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a>, <a href=""/webinars.html"" title=""Webinars"">Webinars</a>, <a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a>, <a href=""who-we-are"" id=""about-us2"">About Us</a>, <a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a>, <a href=""/the-team.html"" title=""Team"">Team</a>, <a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a>, <a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""#contact-lightbox"">Contact Us</a>, <a class=""buy-button"" href=""#"">Buy Now</a>, <a href=""buy-now.html"">Learn more</a>, <a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html"">Ethiopia Clean Water</a>, <a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html""><img alt=""Ethiopia Clean Water"" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>, <a href=""terms-conditions.html"">Terms and Conditions</a>, <a href=""718"">Ethiopia Clean Water</a>, <a href=""718""><img alt="""" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>, <a href=""56.html"">Terms and Conditions</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"">Customer Service</a>, <a class=""B_homeCrumb"" href=""/"" title=""NativeEnergy | Your Climate Solutions Expert"">Home</a>, <a class=""B_crumb"" href=""/for-individuals.html"" title=""For Individuals"">For Individuals</a>, <a href=""frequently-asked-questions.html"">FAQs page</a>, <a class=""lightbox"" href=""assets/files/Light_Boxes/Customer_Service_Office.png""><img alt="""" height=""129"" src=""assets/images/Body/Thumb_Customer_Service_Office.png"" style=""float: right; margin-left: 50px; margin-right: 50px;"" width=""170""/></a>, <a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a>, <a href=""/services-for-businesses.html"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"">Carbon Offsets</a>, <a href=""/carbon-software.html"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"">RECs</a>, <a href=""/marketing-your-actions.html"">Marketing Your Actions</a>, <a href=""/business-carbon-calculator.html"">Small Businesses</a>, <a href=""/case-studies.html"">Case Studies</a>, <a href=""/contact-an-advisor.html"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"">Customer Service</a>, <a href=""/carbon-software.html"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"">Household Calculator</a>, <a href=""/travel.html"">Travel Calculator</a>, <a href=""/featured-projects.html"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"">Help Build™ Carbon Projects</a>, <a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"">Other Carbon Projects</a>, <a href=""/project-performance.html"">Project Performance</a>, <a href=""/certifications.html"">Certifications</a>, <a href=""/for-project-developers.html"">For Project Developers</a>, <a href=""/blog.html"">Blog</a>, <a href=""/newsletter.html"">Newsletter</a>, <a href=""/press.html"">Press</a>, <a href=""/webinars.html"">Webinars</a>, <a href=""/events-sponsorships.html"">Events &amp; Sponsorships</a>, <a href=""/who-we-are.html"">Who We Are</a>, <a href=""/the-team.html"">Team</a>, <a href=""/jobs-internships.html"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"">FAQs</a>, <a href=""/b-corp-certification.html"">B Corp Certification</a>, <a href=""/contact-us.html"">Contact Us</a>, <a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a>, <a class=""newsletter-lightbox-button"" href=""#newsletter-lightbox"">
+<img alt=""Sign up for our newsletter"" src=""/images/newsletter_signup_btn.png""/>
+</a>, <a href=""http://www.facebook.com/nativeenergy"" onmouseout=""document.facebook.src='images/icon-facebook.png'"" onmouseover=""document.facebook.src='images/icon-facebook-hover.png'"" target=""_blank""><img alt=""Facebook"" name=""facebook"" src=""images/icon-facebook.png""/></a>, <a href=""http://www.linkedin.com/company/nativeenergy-inc"" onmouseout=""document.linkedin.src='images/icon-linked-in.png'"" onmouseover=""document.linkedin.src='images/icon-linked-in-hover.png'"" target=""_blank""><img alt=""Linked In"" name=""linkedin"" src=""images/icon-linked-in.png""/></a>, <a href=""http://twitter.com/#!/nativeenergy"" onmouseout=""document.tweeter.src='images/icon-tweeter.png'"" onmouseover=""document.tweeter.src='images/icon-tweeter-hover.png'"" target=""_blank""><img alt=""Tweeter"" name=""tweeter"" src=""images/icon-tweeter.png""/></a>, <a href=""http://vimeo.com/user3897796/videos"" onmouseout=""document.v.src='images/icon-v.png'"" onmouseover=""document.v.src='images/icon-v-hover.png'"" target=""_blank""><img alt=""V"" name=""v"" src=""images/icon-v.png""/></a>, <a href=""http://www.nativeenergy.com/b-corp-certification.html""><img alt=""BCorp"" name=""vbrs"" src=""images/A_BCorp_logo_NEG2.png""/></a>, <a href=""frequently-asked-questions.html"" title=""Help"">Help</a>, <a href=""/site-map.html"" title=""Site Map"">Site Map</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""/privacy-policy.html"" title=""Privacy Policy"">Privacy Policy</a>, <a href=""/terms-conditions.html"" title=""Terms &amp; Conditions"">Terms &amp; Conditions</a>, <a href=""/blog.html"" title=""Blog"">Blog</a>, <a class=""addthis_button_compact"" href=""http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ec0f5684d78f2aa"">Share:</a>]"
+https://nativeenergy.com/site-map.html,text/html; charset=UTF-8,"Thu, 09 Nov 2017 01:47:42 GMT",http://www.nativeenergy.com/site-map.html,"Your Climate Solutions Expert: carbon offsets, renewable energy credits, and carbon tracking services",101,GOOD,"{'Date': 'Thu, 09 Nov 2017 01:47:42 GMT', 'Server': 'Apache', 'X-Powered-By': 'PHP/5.5.38', 'P3P': 'CP=""NOI NID ADMa OUR IND UNI COM NAV""', 'Cache-Control': 'private, must-revalidate', 'Set-Cookie': 'evo1mb1hmf=1da888bfb7e76e8b22d5dfb62076f859; path=/, evo1mb1hmf=1da888bfb7e76e8b22d5dfb62076f859; path=/; httponly', 'Keep-Alive': 'timeout=5, max=100', 'Connection': 'Keep-Alive', 'Transfer-Encoding': 'chunked', 'Content-Type': 'text/html; charset=UTF-8'}",HTTP,[Missing meta description],0,TOO SHORT,,0,0,10,0,10,False,NONE,933.455,"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta content=""text/html; charset=utf-8"" http-equiv=""content-type""/>
+<meta content=""IE=EmulateIE8"" http-equiv=""X-UA-Compatible""/>
+<meta content="""" name=""keywords""/>
+<meta content="""" name=""description""/>
+<link href=""favicon.ico"" rel=""shortcut icon""/>
+<title>Site Map</title>
+<link href=""style/style.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/slider_inner.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/colorbox.css"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/jquery.jscrollpane.css"" media=""all"" rel=""stylesheet"" type=""text/css""/>
+<link href=""style/jquery.jscrollpane.lozenge.css"" rel=""stylesheet"" type=""text/css""/>
+<!--[if lt IE 9]>
+        <link rel=""stylesheet"" type=""text/css"" href=""ie8-and-below.css"" />
+<![endif]-->
+<script src=""http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"" type=""text/javascript""></script>
+<script charset=""utf-8"" src=""js/foxycart.js"" type=""text/javascript""></script>
+<script src=""js/foxycart.cart.open.js"" type=""text/javascript""></script>
+<script src=""js/cufon-yui.js"" type=""text/javascript""></script>
+<script src=""js/cufon-replace.js"" type=""text/javascript""></script>
+<script src=""js/WhitenyHTF_400-WhitenyHTF_700.font.js"" type=""text/javascript""></script>
+<script src=""js/jquery.jcarousel.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.easing.1.3.js"" type=""text/javascript""></script>
+<script src=""js/jquery.hoverIntent.minified.js"" type=""text/javascript""></script>
+<script src=""js/mega-menu.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.mousewheel.js"" type=""text/javascript""></script>
+<script src=""js/jquery.jscrollpane.min.js"" type=""text/javascript""></script>
+<script src=""js/jquery.cycle.all.js"" type=""text/javascript""></script>
+<script src=""js/jquery.defaultvalue.js"" type=""text/javascript""></script>
+<script src=""js/external-links.js"" type=""text/javascript""></script>
+<script type=""text/javascript"">
+$(document).ready(function() {
+$("".accordion-toggler"").toggle(function() {
+        $(this).next().slideToggle();
+	$(this).removeClass(""blue"");
+        $(this).addClass(""orange"");
+}, function() {
+        $(this).next().slideToggle();
+	$(this).removeClass(""orange"");
+        $(this).addClass(""blue"");
+}).next().hide().css('margin-bottom', '25px');
+    $("".card_images"").colorbox({rel:'card_images'});	
+    $("".lightbox"").colorbox({rel:'lightbox'});
+    startcarosuel=function(){ 
+    $('#mycarousel').jcarousel({
+    	wrap: 'circular',
+	scroll:4
+    });
+    }	
+});
+</script>
+<script type=""text/javascript"">
+$(function() {
+
+    $('#testimonials').cycle({
+        fx:      'fade', /*scrollHorz */
+        timeout:  0,
+        prev:    '#prev',
+        next:    '#next',
+		prevNextEvent:'click.cycle',
+		speed:    500    
+	});
+    
+});
+</script>
+<script id=""sourcecode"" type=""text/javascript"">
+	$(function()
+	{
+		$('.scroll-pane').jScrollPane();
+		$('.scroll-pane-arrows').jScrollPane(
+			{
+				showArrows: true,
+				horizontalGutter: 10
+			}
+		);			
+	});
+</script>
+<script type=""text/javascript"">
+	/* BUY NOW FORM */
+	function showProject(value){
+		$('.buynow_right').hide();
+		$('.descr').hide();
+		$(""#""+value).show();
+		$(""#""+value+""_description"").show();
+	}			
+	function setOneTime(){
+		$(""#bn_name"").val('Carbon Offset');
+		$(""#bn_price"").val('14');	
+		$(""#bn_code"").val('one_time');
+		$(""#bn_option_blend"").val(null);
+		$(""#bn_option"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val('$14 per ton.');	
+	}	
+	function setMonthly(){
+		$(""#bn_name"").val('Monthly Carbon Offset');
+		$(""#bn_price"").val('1.17');	
+		$(""#bn_code"").val('monthly');
+		$(""#bn_option"").val(null);		
+		$(""#bn_option_blend"").val('Ethiopia Clean Water');	
+		$(""#bn_onetime_price"").val(null);
+	}
+	/* BUY NOW PAGE */
+	function showProjectPage(value){
+		$('.buynow_right_page').hide();
+		$('.descr_page').hide();
+		$(""#""+value).show();
+		$(""#""+value+""_description"").show();
+	}	
+	function setOneTimePage(){
+		$(""#bn_name_page"").val('Carbon Offset');
+		$(""#bn_price_page"").val('14');	
+		$(""#bn_code_page"").val('one_time');
+		$(""#bn_option_blend_page"").val(null);
+		$(""#bn_option_page"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val('$14 per ton.');	
+	}	
+	function setMonthlyPage(){
+		$(""#bn_name_page"").val('Monthly Carbon Offset');
+		$(""#bn_price_page"").val('1.17');	
+		$(""#bn_code_page"").val('monthly');
+		$(""#bn_option_page"").val(null);
+		$(""#bn_option_blend_page"").val('Ethiopia Clean Water');
+		$(""#bn_onetime_price"").val(null);	
+	}	
+	$(function() {
+		$(""#bn_onetime"").click(function () { 
+		  setOneTime(); 
+		});
+		$(""#bn_monthly"").click(function () { 
+		  setMonthly(); 
+		});
+		$(""#bn_onetime_page"").click(function () { 
+		  setOneTimePage(); 
+		});
+		$(""#bn_monthly_page"").click(function () { 
+		  setMonthlyPage(); 
+		});
+		$(""#individual_radio"").click(function () { 
+		  $(""#business_radio"").prop('checked', false);
+		  $("".mailinkList_textfield_business"").css('display', 'none');
+		  $(""#business_submit"").css('display', 'none');
+		  $("".mailinkList_textfield_individual"").css('display', 'block');
+		  $("".mailinkList_textfield_individual"").css('top', '-191px'); 
+		  $(""#individual_submit"").css('display', 'block');
+		});
+		$(""#business_radio"").click(function () { 
+		  $(""#individual_radio"").prop('checked', false); 
+		  $("".mailinkList_textfield_individual"").css('display', 'none'); 
+		  $(""#individual_submit"").css('display', 'none');
+		  $("".mailinkList_textfield_business"").css('display', 'block');
+		  $(""#business_submit"").css('display', 'block');
+		});
+		$(""#individual_radio_page"").click(function () { 
+		  $(""#business_radio_page"").prop('checked', false);
+		  $("".mailinkList_textfield_business_page"").css('display', 'none');
+		  $(""#business_submit_page"").css('display', 'none');
+		  $("".mailinkList_textfield_individual_page"").css('display', 'block');
+		  $(""#individual_submit_page"").css('display', 'block');
+		});
+		$(""#business_radio_page"").click(function () { 
+		  $(""#individual_radio_page"").prop('checked', false); 
+		  $("".mailinkList_textfield_individual_page"").css('display', 'none'); 
+		  $(""#individual_submit_page"").css('display', 'none');
+		  $("".mailinkList_textfield_business_page"").css('display', 'block');
+		  $(""#business_submit_page"").css('display', 'block');
+		});
+	});			
+</script>
+<script type=""text/javascript"">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1571974-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script charset=""utf-8"" type=""text/javascript"">
+	fcc.events.cart.preprocess.add(function(e, arr) {
+		if (arr['cart'] == 'checkout' || arr['cart'] == 'updateinfo' || arr['output'] == 'json') {
+			return true;
+		}
+		if (arr['cart'] == 'checkout_paypal_express') {
+			_gaq.push(['_trackPageview', '/paypal_checkout']);
+			return true;
+		}
+		_gaq.push(['_trackPageview', '/cart']);
+		return true;
+	});
+	fcc.events.cart.process.add_pre(function(e, arr) {
+		var pageTracker = _gat._getTrackerByName();
+		jQuery.getJSON('https://' + storedomain + '/cart?' + fcc.session_get() + '&h:ga=' + escape(pageTracker._getLinkerUrl('', true)) + '&output=json&callback=?', function(data){});
+		return true;
+	});
+</script>
+<style type=""text/css"">
+div.errors{ color:#F00;margin-bottom:5px; }
+.invalidValue{ border:1px solid #F00; }
+.requiredValue{ border:1px solid #F00; }
+</style>
+</head>
+<body class=""redux"">
+<div id=""container"">
+<div id=""fb-root""></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = ""//connect.facebook.net/en_US/all.js#xfbml=1&appId=243336885705489"";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class=""wrapper_inner"">
+<div class=""inner_header"">
+<div class=""top"">
+<a href=""home.html""><img alt=""Native Energy - Your Climate Solutions Expert"" class=""logo"" src=""images/logo-new.png"" title=""Native Energy - Your Climate Solutions Expert""/></a>
+<h1 class=""tagline""><strong>Your Climate Solutions Expert:</strong> carbon offsets, renewable energy credits, and carbon tracking services</h1>
+<div class=""topLink_area"">
+<a class=""first"" href=""https://nativeenergy.foxycart.com/cart?cart=updateinfo"">Sign In</a>
+<img class=""separator"" src=""images/separator.gif""/>
+<a class=""last"" href=""https://nativeenergy.foxycart.com/cart?cart=view"">Cart</a>
+</div>
+<div class=""search_area"">
+<form action=""search-results.html"" id=""ajaxSearch_form"" method=""post"">
+<input name=""advsearch"" type=""hidden"" value=""exactphrase""/>
+<div class=""search"">
+<input class=""searchfield"" id=""ajaxSearch_input"" name=""search"" onfocus=""this.value=(this.value=='Search here...')? '' : this.value ;"" type=""text"" value=""Search here...""/>
+</div>
+<div class=""sarch_btn"">
+<input id=""ajaxSearch_submit"" src=""images/go.gif"" type=""image""/>
+</div>
+</form>
+</div>
+</div>
+<div class=""menu_area"">
+<div class=""menu_container""><div class=""menu"">
+<ul id=""topnav"">
+<li class=""first hide"">
+<a href=""/services-for-businesses.html"" id=""for-businesses"">For Businesses</a>
+<!--[if lte IE 6]>
+        <a  href=""/services-for-businesses.html"">
+            For Businesses
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+<li class=""first""><a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a></li>
+<li class=""hide"">
+<a href=""/carbon-offsets-for-businesses.html"" id=""carbon-offsets-for-businesses"">Carbon Offsets</a>
+<!--[if lte IE 6]>
+        <a  href=""/carbon-offsets-for-businesses.html"">
+            Carbon Offsets
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a></li>
+<li class=""last""><a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li><a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a></li>
+<li class=""hide"">
+<a href=""/renewable-energy-credits.html"" id=""renewable-energy-credits"">RECs</a>
+<!--[if lte IE 6]>
+        <a  href=""/renewable-energy-credits.html"">
+            RECs
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""hide""><a href=""/marketing-your-actions.html"">Marketing Your Actions</a><dl>
+<li class=""first""><a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a></li>
+<li class=""last""><a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a></li>
+</dl></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a></li>
+<li class=""hide""><a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/how-carbon-offsets-work.html"" id=""for-individuals"">For Individuals</a>
+<!--[if lte IE 6]>
+        <a  href=""/how-carbon-offsets-work.html"">
+            For Individuals
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+</ul>
+<ul class=""subUl "">
+<li class=""first""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li><a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a></li>
+<li><a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a></li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""hide""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last""><a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/carbon-calculators.html"" id=""carbon-calculators"">Carbon Calculators</a>
+<!--[if lte IE 6]>
+        <a  href=""/carbon-calculators.html"">
+            Carbon Calculators
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first""><a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a></li>
+<li><a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a></li>
+<li class=""last hide""><a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/featured-projects.html"" id=""carbon-projects"">Carbon Projects</a>
+<!--[if lte IE 6]>
+        <a  href=""/featured-projects.html"">
+            Carbon Projects
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl "">
+<li class=""first""><a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a></li>
+<li class=""hide"">
+<a href=""/help-build-project-portfolio.html"" id=""help-build-project-portfolio"">Help Build™ Carbon Projects</a>
+<!--[if lte IE 6]>
+        <a  href=""/help-build-project-portfolio.html"">
+            Help Build&trade; Carbon Projects
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a></li>
+<li><a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a></li>
+<li><a href=""/oka.html"" title=""Forestry"">Forestry</a></li>
+<li><a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a></li>
+<li><a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a></li>
+<li class=""last""><a href=""/other.html"" title=""Other"">Other</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+</ul>
+<ul class=""subUl hidelast"">
+<li class=""""><a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a></li>
+<li class=""hide""><a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a></li>
+<li class=""hide""><a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a></li>
+<li class=""hide""><a href=""/certifications.html"" title=""Certifications"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""/blog.html"" id=""news-events"">News &amp; Events</a>
+<!--[if lte IE 6]>
+        <a  href=""/blog.html"">
+            News & Events
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first hide""><a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a></li>
+<li class=""hide""><a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a></li>
+<li class=""hide"">
+<a href=""/press.html"" id=""press"">Press</a>
+<!--[if lte IE 6]>
+        <a  href=""/press.html"">
+            Press
+            <table><tr><td>
+   <![endif]-->
+<dl>
+<li class=""first""><a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a></li>
+</dl>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li><a href=""/webinars.html"" title=""Webinars"">Webinars</a></li>
+<li class=""last hide""><a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""hide"">
+<a href=""who-we-are"" id=""about-us2"">About Us</a>
+<!--[if lte IE 6]>
+        <a  href=""who-we-are"">
+            About Us
+            <table><tr><td>
+   <![endif]-->
+<div class=""sub"">
+<ul class=""subUl hidelast"">
+<li class=""first""><a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a></li>
+<li><a href=""/the-team.html"" title=""Team"">Team</a></li>
+<li><a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a></li>
+<li><a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a></li>
+<li><a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+</ul>
+</div>
+<!--[if lte IE 6]>
+	    </td></tr></table>
+        </a>
+    <![endif]-->
+</li>
+<li class=""last""><a href=""#contact-lightbox"">Contact Us</a></li>
+</ul>
+</div></div>
+<div class=""menu_buyNow"">
+<ul id=""buynow"">
+<li><a class=""buy-button"" href=""#"">Buy Now</a>
+<div class=""buynow_box sub"">
+<div class=""buynow_left"">
+<h2>Buy Carbon Offsets</h2>
+<p>
+<span class=""descr"" id=""one_time_description"">Enter the number of carbon tons that you want to offset. <br/></span>
+<span class=""descr"" id=""monthly_description"">Enter the number of carbon tons that you want to offset <br/><strong>per year</strong>.</span>
+</p>
+<form accept-charset=""utf-8"" action=""https://nativeenergy.foxycart.com/cart"" method=""post"">
+<input id=""bn_name"" name=""name"" type=""hidden"" value=""Carbon Offset""/>
+<input id=""bn_code"" name=""code"" type=""hidden"" value=""onetime""/>
+<input id=""bn_option"" name=""Project"" type=""hidden"" value=""Ethiopia Clean Water""/>
+<input id=""bn_option_blend"" name=""Project_Blend"" type=""hidden"" value=""""/>
+<input id=""bn_onetime_price"" name=""Price Per Ton"" type=""hidden"" value=""$14""/>
+<input id=""bn_price"" name=""price"" type=""hidden"" value=""14""/>
+<input id=""bn_pop"" name=""Point of Purchase"" type=""hidden"" value=""Buy Now Dropdown Calculator""/>
+                        One Time <input checked=""checked"" class=""frequency"" id=""bn_onetime"" name=""sub_frequency"" onclick=""showProject('one_time');"" type=""radio"" value=""""/> 
+						Monthly <input class=""frequency"" id=""bn_monthly"" name=""sub_frequency"" onclick=""showProject('monthly');"" type=""radio"" value=""1m""/>
+<div class=""buyNow_field"">
+<input class=""default-value"" id=""tons"" name=""quantity"" type=""text"" value=""Number of Tons""/>
+</div>
+<div class=""btn_buy"">
+<input id=""buy"" name=""x:buy"" src=""images/btn-buy-now.png"" type=""image""/>
+</div>
+</form>
+<div class=""buy_now_learn_more"">
+<p><em><a href=""buy-now.html"">Learn more</a></em></p>
+</div>
+</div>
+<div class=""buynow_right"" id=""one_time"">
+<h2>Your purchase helps build:</h2>
+<h3><a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html"">Ethiopia Clean Water</a></h3>
+<a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html""><img alt=""Ethiopia Clean Water"" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>
+<p>Your offsets will be independently verified to the Verified Carbon Standard over approximately the first nine years of the project’s operations. <a href=""terms-conditions.html"">Terms and Conditions</a></p>
+</div>
+<div class=""buynow_right"" id=""monthly"" style=""display:none;"">
+<h2>Your purchase helps build:</h2>
+<h3><a href=""718"">Ethiopia Clean Water</a></h3>
+<a href=""718""><img alt="""" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>
+<p>Your offsets will be independently verified to the Verified Carbon Standard over approximately the first eight years of the project’s operations. <a href=""56.html"">Terms and Conditions</a></p>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""middle_area"">
+<div class=""left"">
+<div class=""left_box"">
+<h2>Information Area</h2>
+<div class=""leftNav_middle"">
+<div class=""menu_left"">
+<ul>
+<li class=""""><a href=""frequently-asked-questions.html"">Help</a></li>
+<li class=""active""><a href=""/site-map.html"">Site Map</a></li>
+<li class=""""><a href=""/contact-us.html"">Contact Us</a></li>
+<li class=""""><a href=""/privacy-policy.html"">Privacy Policy</a></li>
+<li class=""""><a href=""/terms-conditions.html"">Terms &amp; Conditions</a></li>
+<li class=""last""><a href=""/blog.html"">Blog</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""leftBox_shadow""></div>
+<div class=""left_box"">
+<div id=""testimonials"">
+<div class=""left_testimonial"">
+<p><p>“The best carbon <br/>offset companies, like <em>Native</em>Energy, are investing in new renewable energy projects. We’re focused on doing our part to reduce our actual carbon emissions but we’re also investing<br/> in changing the energy infrastructure through offsets so that we can <br/>help add more renewable energy to the grid.” </p>
+<p><strong>Kim Coupounas</strong><br/><em>Chief Environmental Officer</em><br/>GoLite</p></p>
+</div> <div class=""left_testimonial"">
+<p><p>“We have made a conscious decision to buy forward stream offsets because our purchase helps to build new projects that need up-front funding to be built. This ensures that our purchases make <br/>a difference by enabling new project construction.” </p>
+<p><strong>Green Mountain <br/>Coffee Roasters</strong><br/><em>2010 CSR Report</em></p></p>
+</div> <div class=""left_testimonial"">
+<p><p>""While reducing our CO<sub>2</sub> footprint is one means <br/>by which we further our business mission, working with <em>Native</em>Energy provides a unique opportunity to further others at the same time – working with and giving back to communities that are at economic <br/>and social risk, helping <br/>to create fundamental social change.""<em><strong></strong></em></p>
+<p><em><strong></strong></em><strong>Andrea Asch</strong><br/><em>Manager of Natural Resource Use</em><br/>Ben &amp; Jerry's</p></p>
+</div> <div class=""left_testimonial"">
+<p><p>""Global warming is one <br/>of the most significant problems facing our <br/>planet, and Participant believes that everyone—corporations, individuals and governments—has a role to play. Making our films climate neutral is <br/>an example of something we can do to reduce our impact on the planet, leading the way to <br/>positive change.""</p>
+<p><strong>Participant Media</strong></p></p>
+</div> <div class=""left_testimonial"">
+<p><p>“We’ve once again <br/>chosen to partner with <em>Native</em>Energy not simply because they provide our organization with high quality carbon offsets, but because they connect us <br/>to a project that we admire. Working with them, it is possible for us to make <br/>a genuine difference.” </p>
+<p><strong>Tom Johnson</strong><br/><em>Owner</em><br/>The Heritage Store</p></p>
+</div> <div class=""left_testimonial"">
+<p><p>""We did extensive <br/>research to find the best carbon offset partner we could. <em>Native</em>Energy's commitment to projects that provide both verifiable CO<sub>2</sub> reductions and sustainable economic benefits for communities <br/>in need was compelling.""</p>
+<p><strong>Allen Singleton</strong><br/><em>Chief Operating Officer</em><br/>Biblio.com</p></p>
+</div> <div class=""left_testimonial"">
+<p><p>""We are excited <br/>to be part of such <br/>a unique partnership<br/>to support renewable <br/>energy and reduce <br/>our ecological footprint <br/>on the planet.” </p>
+<p><strong>Gary Erickson</strong><br/><em>Owner and CEO</em><br/>Clif Bar, Inc. </p></p>
+</div> <div class=""left_testimonial"">
+<p><p>“Working with <br/><em>Native</em>Energy has been critical to the success of our sustainability program at Clif Bar... We have won three national awards for our environmental efforts, all of which mention our purchase of wind power and commitment to fight global warming as the reason for our selection <br/>as winners.”</p>
+<p><strong>Elysa Hammond</strong><br/><em>Ecologist</em><br/>Clif Bar, Inc.</p></p>
+</div>
+</div>
+<div style=""width:100%; height:23px;"">
+<span class=""previousbtn"" id=""prev""><a href=""#"">Prev</a></span>
+<span class=""nextbtn"" id=""next""><a href=""#"">Next</a></span>
+</div>
+</div>
+<div class=""leftBox_shadow""></div>
+<div class=""left_box"">
+<h3>Be Social</h3>
+<div class=""facebook_area"">
+<div class=""fb-like-box"" data-border-color=""#F5F3F0"" data-header=""false"" data-height=""350"" data-href=""http://www.facebook.com/nativeenergy"" data-show-faces=""true"" data-stream=""false"" data-width=""195""></div>
+</div>
+</div>
+<div class=""leftBox_shadow""></div>
+</div>
+<div class=""middle"">
+<div class=""breadcrumbs""><span class=""B_crumbBox""><span class=""B_firstCrumb""><a class=""B_homeCrumb"" href=""/"" title=""NativeEnergy | Your Climate Solutions Expert"">Home</a></span>  »  <a class=""B_crumb"" href=""/info-section.html"" title=""Information Area"">Information Area</a>  »  <span class=""B_lastCrumb""><span class=""B_currentCrumb"">Site Map</span></span></span></div>
+<div class=""pageTop_textArea"">
+<div class=""page_topText"">
+<h2>Site Map</h2>
+<ul><li><a href=""/services-for-businesses.html"" title=""For Businesses"">For Businesses</a><ul><li><a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a></li>
+<li><a href=""/carbon-offsets-for-businesses.html"" title=""Carbon Offsets"">Carbon Offsets</a><ul><li><a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a></li>
+<li class=""last""><a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a></li>
+</ul></li>
+<li><a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a></li>
+<li><a href=""/renewable-energy-credits.html"" title=""RECs"">RECs</a><ul><li><a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a></li>
+</ul></li>
+<li><a href=""/marketing-your-actions.html"" rel=""newcolumn"" title=""Marketing Your Actions"">Marketing Your Actions</a><ul><li><a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a></li>
+<li class=""last""><a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a></li>
+</ul></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a></li>
+<li><a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a></li>
+</ul></li>
+<li><a href=""/how-carbon-offsets-work.html"" title=""For Individuals"">For Individuals</a><ul><li><a href=""/how-carbon-offsets-work.html"" rel=""newcolumn"" title=""How Carbon Offsets Work"">How Carbon Offsets Work</a></li>
+<li><a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a></li>
+<li><a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a></li>
+<li><a href=""/sustainability-tips.html"" rel=""newcolumn"" title=""Sustainability Tips"">Sustainability Tips</a></li>
+<li class=""last""><a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a></li>
+</ul></li>
+<li><a href=""/carbon-calculators.html"" title=""Carbon Calculators"">Carbon Calculators</a><ul><li><a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a></li>
+<li><a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a></li>
+<li><a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a></li>
+<li class=""last""><a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a></li>
+</ul></li>
+<li><a href=""/featured-projects.html"" title=""Carbon Projects"">Carbon Projects</a><ul><li><a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a></li>
+<li><a href=""/help-build-project-portfolio.html"" title=""Help Build™ Carbon Projects"">Help Build™ Carbon Projects</a><ul><li><a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a></li>
+<li><a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a></li>
+<li><a href=""/oka.html"" title=""Forestry"">Forestry</a><ul><li><a href=""/oka.html"" title=""Oka Trees of Hope"">Oka Trees of Hope</a></li>
+</ul></li>
+<li><a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a></li>
+<li><a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a></li>
+<li class=""last""><a href=""/other.html"" title=""Other"">Other</a></li>
+</ul></li>
+<li><a href=""/custom-built-carbon-projects.html"" rel=""newcolumn"" title=""Custom Carbon Projects"">Custom Carbon Projects</a></li>
+<li><a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a></li>
+<li><a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a></li>
+<li><a href=""/certifications.html"" title=""Certifications"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a></li>
+</ul></li>
+<li><a href=""/blog.html"" title=""News &amp; Events"">News &amp; Events</a><ul><li><a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a></li>
+<li><a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a></li>
+<li><a href=""/press.html"" title=""Press"">Press</a><ul><li><a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a></li>
+</ul></li>
+<li><a href=""/webinars.html"" title=""Webinars"">Webinars</a></li>
+<li class=""last""><a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a></li>
+</ul></li>
+<li><a href=""who-we-are"" title=""About Us"">About Us</a><ul><li><a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a></li>
+<li><a href=""/the-team.html"" title=""Team"">Team</a></li>
+<li><a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a></li>
+<li><a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a></li>
+<li><a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+</ul></li>
+<li class=""last""><a href=""#contact-lightbox"" title=""Contact Us"">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=""footer_area"">
+<div class=""footer_container"">
+<div class=""footer"">
+<div class=""footer_row"">
+<div class=""footer_linkBlock"">
+<h2>For Businesses</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/services-for-businesses.html"">Services We Offer</a></li>
+<li class=""""><a href=""/carbon-offsets-for-businesses.html"">Carbon Offsets</a></li>
+<li class=""""><a href=""/carbon-software.html"">Carbon Software</a></li>
+<li class=""""><a href=""/renewable-energy-credits.html"">RECs</a></li>
+<li class=""""><a href=""/marketing-your-actions.html"">Marketing Your Actions</a></li>
+<li class=""""><a href=""/business-carbon-calculator.html"">Small Businesses</a></li>
+<li class=""""><a href=""/case-studies.html"">Case Studies</a></li>
+<li class=""last""><a href=""/contact-an-advisor.html"">Contact an Advisor</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>For Individuals</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a></li>
+<li class=""""><a href=""buy-now"">Buy Carbon Offsets</a></li>
+<li class=""""><a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a></li>
+<li class=""""><a href=""/sustainability-tips.html"">Sustainability Tips</a></li>
+<li class=""last""><a href=""/customer-service1.html"">Customer Service</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Carbon Calculators</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/carbon-software.html"">Carbon Tracking Software</a></li>
+<li class=""""><a href=""/business-carbon-calculator.html"">Business Calculator</a></li>
+<li class=""""><a href=""/household-carbon-calculator.html"">Household Calculator</a></li>
+<li class=""last""><a href=""/travel.html"">Travel Calculator</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Carbon Projects</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/featured-projects.html"">Our Featured Projects</a></li>
+<li class=""""><a href=""/help-build-project-portfolio.html"">Help Build™ Carbon Projects</a></li>
+<li class=""""><a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a></li>
+<li class=""""><a href=""/other-carbon-projects.html"">Other Carbon Projects</a></li>
+<li class=""""><a href=""/project-performance.html"">Project Performance</a></li>
+<li class=""""><a href=""/certifications.html"">Certifications</a></li>
+<li class=""last""><a href=""/for-project-developers.html"">For Project Developers</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>News &amp; Events</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/blog.html"">Blog</a></li>
+<li class=""""><a href=""/newsletter.html"">Newsletter</a></li>
+<li class=""""><a href=""/press.html"">Press</a></li>
+<li class=""""><a href=""/webinars.html"">Webinars</a></li>
+<li class=""last""><a href=""/events-sponsorships.html"">Events &amp; Sponsorships</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class=""footer_row"">
+<div class=""footer_linkBlock"">
+<h2>About Us</h2>
+<div class=""menu_footer"">
+<ul>
+<li class=""""><a href=""/who-we-are.html"">Who We Are</a></li>
+<li class=""""><a href=""/the-team.html"">Team</a></li>
+<li class=""""><a href=""/jobs-internships.html"">Jobs &amp; Internships</a></li>
+<li class=""""><a href=""/frequently-asked-questions.html"">FAQs</a></li>
+<li class=""""><a href=""/b-corp-certification.html"">B Corp Certification</a></li>
+<li class=""last""><a href=""/contact-us.html"">Contact Us</a></li>
+</ul>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Contact Us</h2>
+<p><em>Native</em>Energy, Inc<br/>
+3 Main Street, STE 212<br/>
+Burlington VT, 05401<br/>
+1.800.924.6826</p>
+<p><a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a></p>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Join Our Mailing List</h2>
+<p>
+<a class=""newsletter-lightbox-button"" href=""#newsletter-lightbox"">
+<img alt=""Sign up for our newsletter"" src=""/images/newsletter_signup_btn.png""/>
+</a>
+</p>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Stay Informed</h2>
+<div class=""icons"">
+<a href=""http://www.facebook.com/nativeenergy"" onmouseout=""document.facebook.src='images/icon-facebook.png'"" onmouseover=""document.facebook.src='images/icon-facebook-hover.png'"" target=""_blank""><img alt=""Facebook"" name=""facebook"" src=""images/icon-facebook.png""/></a><a href=""http://www.linkedin.com/company/nativeenergy-inc"" onmouseout=""document.linkedin.src='images/icon-linked-in.png'"" onmouseover=""document.linkedin.src='images/icon-linked-in-hover.png'"" target=""_blank""><img alt=""Linked In"" name=""linkedin"" src=""images/icon-linked-in.png""/></a><a href=""http://twitter.com/#!/nativeenergy"" onmouseout=""document.tweeter.src='images/icon-tweeter.png'"" onmouseover=""document.tweeter.src='images/icon-tweeter-hover.png'"" target=""_blank""><img alt=""Tweeter"" name=""tweeter"" src=""images/icon-tweeter.png""/></a><a href=""http://vimeo.com/user3897796/videos"" onmouseout=""document.v.src='images/icon-v.png'"" onmouseover=""document.v.src='images/icon-v-hover.png'"" target=""_blank""><img alt=""V"" name=""v"" src=""images/icon-v.png""/></a>
+</div>
+</div>
+<div class=""footer_linkBlock"">
+<h2>Certified</h2>
+<div class=""icons"">
+<a href=""http://www.nativeenergy.com/b-corp-certification.html""><img alt=""BCorp"" name=""vbrs"" src=""images/A_BCorp_logo_NEG2.png""/></a>
+</div>
+</div>
+</div>
+<div class=""footer_bottomArea"">
+<div class=""footer_bottomLinks"">
+<ul id=""bottom_footer"">
+<li><a href=""frequently-asked-questions.html"" title=""Help"">Help</a></li>
+<li class=""active""><a href=""/site-map.html"" title=""Site Map"">Site Map</a></li>
+<li><a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a></li>
+<li><a href=""/privacy-policy.html"" title=""Privacy Policy"">Privacy Policy</a></li>
+<li><a href=""/terms-conditions.html"" title=""Terms &amp; Conditions"">Terms &amp; Conditions</a></li>
+<li class=""last""><a href=""/blog.html"" title=""Blog"">Blog</a></li>
+</ul>
+</div>
+<div class=""copyright"">© 2017 <em>Native</em>Energy, Inc. All rights reserved.</div>
+<div class=""share"">
+<div class=""addthis_toolbox addthis_default_style "">
+<a class=""addthis_button_compact"" href=""http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ec0f5684d78f2aa"">Share:</a>
+<a class=""addthis_button_preferred_3""></a>
+<a class=""addthis_button_preferred_4""></a>
+</div>
+<script src=""http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4ec0f5684d78f2aa"" type=""text/javascript""></script>
+</div>
+</div>
+<script type=""text/javascript"">
+$(document).ready(function(){
+ $(""ul#buynow li .sub"").css({'opacity':'0'}); //Fade sub nav to 0 opacity on default
+$(""ul#buynow li"").hoverIntent(megaHoverOver,megaHoverOut); 
+});
+Cufon.now();
+</script>
+</div>
+</div>
+</div><!-- end #container -->
+<div class=""clear""></div>
+<div style=""display:none;"">
+<div class=""lightbox-form"" id=""contact-lightbox"">
+<p class=""error""></p>
+<div class=""contact"">
+<form action=""site-map.html"" id=""contact_form"" method=""post"" name=""contact_form"">
+<fieldset>
+<h3>How Can We Help You?</h3>
+<input name=""formid"" type=""hidden"" value=""contact_form""/>
+<div class=""left-side"">
+<label for=""cfName"">*First Name</label>
+<input class=""text"" id=""cfFirstName"" name=""first-name"" type=""text"" value=""""/>
+</div>
+<div class=""right-side"">
+<label for=""cfName"">*Last Name</label>
+<input class=""text"" id=""cfLastName"" name=""last-name"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfEmail"">*Email</label>
+<input class=""text"" id=""cfEmail"" name=""email"" type=""text"" value=""""/>
+</div>
+<div class=""right-side"">
+<label for=""cfPhone"">Phone:</label>
+<input class=""text"" id=""cFPhone"" name=""phone"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfBusiness"">Business Name:</label>
+<input class=""text business"" id=""cFBusiness"" name=""business-name"" type=""text"" value=""""/>
+</div>
+<div class=""clear""></div>
+<h4>I'm interested in:</h4>
+<div class=""checkboxes"">
+<input name=""interested-in[]"" type=""checkbox"" value=""calculating my footprint""/><label class=""check"" for=""interested"">calculating my footprint</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""learning about offsets""/><label class=""check"" for=""interested"">learning about offsets</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""purchasing offsets""/><label class=""check"" for=""interested"">purchasing offsets</label>
+<input name=""interested-in[]"" type=""checkbox"" value=""learning about projects""/><label class=""check"" for=""interested"">learning about projects</label>
+<br/>
+<input name=""interested-in[]"" type=""checkbox"" value=""other""/><label class=""check"" for=""interested"">other</label>
+</div>
+<div class=""clear""></div>
+<label for=""cfMessage"">*Message:</label>
+<textarea class=""textarea"" id=""cfMessage"" name=""message""></textarea>
+<p class=""first"">
+<strong>If you prefer to connect with us directly</strong>, individuals may reach customer service at 1-800-924-6826. Businesses, dial ext 203 to speak with Joe Tyson.
+					</p>
+<p>
+<strong>Sign up for updates</strong> to hear about projects, climate news, and sustainability tips: <input name=""newsletter[]"" type=""checkbox"" value=""Yes""/>
+</p>
+<div class=""special"">
+<label for=""cfSpecial"">
+<p>Special<br/><input class=""text"" id=""cfSpecial"" name=""special"" type=""text"" value=""""/></p>
+</label>
+</div>
+<input class=""submit"" id=""cfContact"" name=""contact"" src=""/images/submit-contact-lighbox.jpg"" type=""image""/>
+<div class=""required"">*Required Field</div>
+<div class=""clear""></div>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+<script>
+	$(function() {
+		$(""#topnav > li.last a"").colorbox({inline:true, width:""380px"", close: ""X"", className: ""contact""});
+	});
+</script>
+<div style=""display:none;"">
+<div class=""lightbox-form"" id=""newsletter-lightbox"">
+<form action=""http://oi.vresp.com?fid=08ae1f5761"" id=""newsletter_form"" method=""post"" name=""newsletter_form"">
+<h3>Newsletter Sign-Up</h3>
+<div class=""left-side"">
+<label for=""cfName"">*First Name</label>
+<input class=""text"" id=""cfFirstName"" name=""first_name"" type=""text""/>
+</div>
+<div class=""right-side"">
+<label for=""cfName"">*Last Name</label>
+<input class=""text"" id=""cfLastName"" name=""last_name"" type=""text""/>
+</div>
+<div class=""clear""></div>
+<div class=""left-side"">
+<label for=""cfEmail"">*Email</label>
+<input class=""text"" id=""cfEmail"" name=""email_address"" type=""text""/>
+</div>
+<div class=""clear""></div>
+<h4>Which newsletter would you like?</h4>
+<div class=""checkboxes business_radio_container"">
+<label>Business</label><input checked=""checked"" id=""business_radio_lightbox"" name=""which_newsletter"" type=""radio"" value=""business""/>
+<label>Individual</label><input id=""individual_radio_lightbox"" name=""which_newsletter"" type=""radio"" value=""individual""/>
+</div>
+<div class=""clear""></div>
+<input class=""submit biz_submit"" id=""cfContact"" name=""contact"" src=""/images/submit-contact-lighbox.jpg"" type=""image"" value=""""/>
+<div class=""required"">*Required Fields</div>
+<div class=""clear""></div>
+</form>
+</div>
+</div>
+<script>
+        $(function() {            
+            $("".newsletter-lightbox-button"").colorbox({inline:true, width:""380px"", close: ""X"", className: ""contact""});   
+			$('.biz_submit').click(function() {
+				if ($(""input#business_radio_lightbox"").is(':checked')) {
+					//send to business list
+					//alert(""business is checked!"");
+					$(""#newsletter_form"").prop(""action"", ""http://oi.vresp.com?fid=08ae1f5761"");
+				}
+				else if ($(""input#individual_radio_lightbox"").is(':checked')) {
+				  //send to individual list
+				  //alert(""indy is checked!"");
+				  $(""#newsletter_form"").prop(""action"", ""http://oi.vresp.com?fid=10da03aeed"");
+				}
+			});        
+        });
+</script>
+</div></body>
+</html>",OK,200,Site Map,8,SHORT,https://nativeenergy.com/site-map.html,"[<a href=""home.html""><img alt=""Native Energy - Your Climate Solutions Expert"" class=""logo"" src=""images/logo-new.png"" title=""Native Energy - Your Climate Solutions Expert""/></a>, <a class=""first"" href=""https://nativeenergy.foxycart.com/cart?cart=updateinfo"">Sign In</a>, <a class=""last"" href=""https://nativeenergy.foxycart.com/cart?cart=view"">Cart</a>, <a href=""/services-for-businesses.html"" id=""for-businesses"">For Businesses</a>, <a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"" id=""carbon-offsets-for-businesses"">Carbon Offsets</a>, <a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a>, <a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a>, <a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"" id=""renewable-energy-credits"">RECs</a>, <a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a>, <a href=""/marketing-your-actions.html"">Marketing Your Actions</a>, <a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a>, <a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a>, <a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a>, <a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a>, <a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"" id=""for-individuals"">For Individuals</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a>, <a href=""/carbon-calculators.html"" id=""carbon-calculators"">Carbon Calculators</a>, <a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a>, <a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a>, <a href=""/featured-projects.html"" id=""carbon-projects"">Carbon Projects</a>, <a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"" id=""help-build-project-portfolio"">Help Build™ Carbon Projects</a>, <a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a>, <a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a>, <a href=""/oka.html"" title=""Forestry"">Forestry</a>, <a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a>, <a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a>, <a href=""/other.html"" title=""Other"">Other</a>, <a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a>, <a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a>, <a href=""/certifications.html"" title=""Certifications"">Certifications</a>, <a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a>, <a href=""/blog.html"" id=""news-events"">News &amp; Events</a>, <a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a>, <a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a>, <a href=""/press.html"" id=""press"">Press</a>, <a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a>, <a href=""/webinars.html"" title=""Webinars"">Webinars</a>, <a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a>, <a href=""who-we-are"" id=""about-us2"">About Us</a>, <a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a>, <a href=""/the-team.html"" title=""Team"">Team</a>, <a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a>, <a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""#contact-lightbox"">Contact Us</a>, <a class=""buy-button"" href=""#"">Buy Now</a>, <a href=""buy-now.html"">Learn more</a>, <a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html"">Ethiopia Clean Water</a>, <a href=""http://www.nativeenergy.com/ethiopia-clean-water-project.html""><img alt=""Ethiopia Clean Water"" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>, <a href=""terms-conditions.html"">Terms and Conditions</a>, <a href=""718"">Ethiopia Clean Water</a>, <a href=""718""><img alt="""" src=""assets/images/Buy_Now/ethiopia-clean-water.jpg""/></a>, <a href=""56.html"">Terms and Conditions</a>, <a href=""frequently-asked-questions.html"">Help</a>, <a href=""/site-map.html"">Site Map</a>, <a href=""/contact-us.html"">Contact Us</a>, <a href=""/privacy-policy.html"">Privacy Policy</a>, <a href=""/terms-conditions.html"">Terms &amp; Conditions</a>, <a href=""/blog.html"">Blog</a>, <a href=""#"">Prev</a>, <a href=""#"">Next</a>, <a class=""B_homeCrumb"" href=""/"" title=""NativeEnergy | Your Climate Solutions Expert"">Home</a>, <a class=""B_crumb"" href=""/info-section.html"" title=""Information Area"">Information Area</a>, <a href=""/services-for-businesses.html"" title=""For Businesses"">For Businesses</a>, <a href=""/services-for-businesses.html"" title=""Services We Offer"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"" title=""Carbon Offsets"">Carbon Offsets</a>, <a href=""/help-build.html"" title=""Help Build™ Carbon Offsets"">Help Build™ Carbon Offsets</a>, <a href=""/verified-carbon-offsets.html"" title=""Other Carbon Offsets"">Other Carbon Offsets</a>, <a href=""/carbon-software.html"" title=""Carbon Software"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"" title=""RECs"">RECs</a>, <a href=""/green-e-recs.html"" title=""Green-E RECs"">Green-E RECs</a>, <a href=""/marketing-your-actions.html"" rel=""newcolumn"" title=""Marketing Your Actions"">Marketing Your Actions</a>, <a href=""/psp.html"" title=""Project Supporter Program Landing Page"">Project Supporter Program</a>, <a href=""/marketing-toolkit.html"" title=""Marketing Toolkit"">Marketing Toolkit</a>, <a href=""/business-carbon-calculator.html"" title=""Small Businesses"">Small Businesses</a>, <a href=""/case-studies.html"" title=""Case Studies"">Case Studies</a>, <a href=""/contact-an-advisor.html"" title=""Contact an Advisor"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"" title=""For Individuals"">For Individuals</a>, <a href=""/how-carbon-offsets-work.html"" rel=""newcolumn"" title=""How Carbon Offsets Work"">How Carbon Offsets Work</a>, <a href=""buy-now"" title=""Buy Carbon Offsets"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"" title=""Calculate Carbon Footprint"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"" rel=""newcolumn"" title=""Sustainability Tips"">Sustainability Tips</a>, <a href=""/customer-service1.html"" title=""Customer Service"">Customer Service</a>, <a href=""/carbon-calculators.html"" title=""Carbon Calculators"">Carbon Calculators</a>, <a href=""/carbon-software.html"" title=""Carbon Tracking Software"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"" title=""Business Calculator"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"" title=""Household Calculator"">Household Calculator</a>, <a href=""/travel.html"" title=""Travel Calculator"">Travel Calculator</a>, <a href=""/featured-projects.html"" title=""Carbon Projects"">Carbon Projects</a>, <a href=""/featured-projects.html"" title=""Our Featured Projects"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"" title=""Help Build™ Carbon Projects"">Help Build™ Carbon Projects</a>, <a href=""/biogas-energy.html"" title=""Biogas Energy"">Biogas Energy</a>, <a href=""/cleanwater.html"" title=""Clean Water Campaign"">Clean Water Campaign</a>, <a href=""/oka.html"" title=""Forestry"">Forestry</a>, <a href=""/oka.html"" title=""Oka Trees of Hope"">Oka Trees of Hope</a>, <a href=""/farm-methane-reduction1.html"" title=""Farm Methane Reduction"">Farm Methane Reduction</a>, <a href=""/wind-energy.html"" title=""Wind Energy"">Wind Energy</a>, <a href=""/other.html"" title=""Other"">Other</a>, <a href=""/custom-built-carbon-projects.html"" rel=""newcolumn"" title=""Custom Carbon Projects"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"" title=""Other Carbon Projects"">Other Carbon Projects</a>, <a href=""/project-performance.html"" title=""Project Performance"">Project Performance</a>, <a href=""/certifications.html"" title=""Certifications"">Certifications</a>, <a href=""/for-project-developers.html"" title=""For Project Developers + Owners"">For Project Developers</a>, <a href=""/blog.html"" title=""News &amp; Events"">News &amp; Events</a>, <a href=""/blog.html"" title=""The NativeEnergy Blog"">Blog</a>, <a href=""/newsletter.html"" title=""Newsletter"">Newsletter</a>, <a href=""/press.html"" title=""Press"">Press</a>, <a href=""/media-kit.html"" title=""Media Kit"">Media Kit</a>, <a href=""/webinars.html"" title=""Webinars"">Webinars</a>, <a href=""/events-sponsorships.html"" title=""Events &amp; Sponsorships"">Events &amp; Sponsorships</a>, <a href=""who-we-are"" title=""About Us"">About Us</a>, <a href=""/who-we-are.html"" title=""Who We Are"">Who We Are</a>, <a href=""/the-team.html"" title=""Team"">Team</a>, <a href=""/jobs-internships.html"" title=""Jobs &amp; Internships"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"" title=""FAQs"">FAQs</a>, <a href=""/b-corp-certification.html"" title=""B Corp Certification"">B Corp Certification</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""#contact-lightbox"" title=""Contact Us"">Contact Us</a>, <a href=""/services-for-businesses.html"">Services We Offer</a>, <a href=""/carbon-offsets-for-businesses.html"">Carbon Offsets</a>, <a href=""/carbon-software.html"">Carbon Software</a>, <a href=""/renewable-energy-credits.html"">RECs</a>, <a href=""/marketing-your-actions.html"">Marketing Your Actions</a>, <a href=""/business-carbon-calculator.html"">Small Businesses</a>, <a href=""/case-studies.html"">Case Studies</a>, <a href=""/contact-an-advisor.html"">Contact an Advisor</a>, <a href=""/how-carbon-offsets-work.html"">How Carbon Offsets Work</a>, <a href=""buy-now"">Buy Carbon Offsets</a>, <a href=""household-carbon-calculator.html"">Calculate Carbon Footprint</a>, <a href=""/sustainability-tips.html"">Sustainability Tips</a>, <a href=""/customer-service1.html"">Customer Service</a>, <a href=""/carbon-software.html"">Carbon Tracking Software</a>, <a href=""/business-carbon-calculator.html"">Business Calculator</a>, <a href=""/household-carbon-calculator.html"">Household Calculator</a>, <a href=""/travel.html"">Travel Calculator</a>, <a href=""/featured-projects.html"">Our Featured Projects</a>, <a href=""/help-build-project-portfolio.html"">Help Build™ Carbon Projects</a>, <a href=""/custom-built-carbon-projects.html"">Custom Carbon Projects</a>, <a href=""/other-carbon-projects.html"">Other Carbon Projects</a>, <a href=""/project-performance.html"">Project Performance</a>, <a href=""/certifications.html"">Certifications</a>, <a href=""/for-project-developers.html"">For Project Developers</a>, <a href=""/blog.html"">Blog</a>, <a href=""/newsletter.html"">Newsletter</a>, <a href=""/press.html"">Press</a>, <a href=""/webinars.html"">Webinars</a>, <a href=""/events-sponsorships.html"">Events &amp; Sponsorships</a>, <a href=""/who-we-are.html"">Who We Are</a>, <a href=""/the-team.html"">Team</a>, <a href=""/jobs-internships.html"">Jobs &amp; Internships</a>, <a href=""/frequently-asked-questions.html"">FAQs</a>, <a href=""/b-corp-certification.html"">B Corp Certification</a>, <a href=""/contact-us.html"">Contact Us</a>, <a href=""mailto:support@nativeenergy.com"">support@nativeenergy.com</a>, <a class=""newsletter-lightbox-button"" href=""#newsletter-lightbox"">
+<img alt=""Sign up for our newsletter"" src=""/images/newsletter_signup_btn.png""/>
+</a>, <a href=""http://www.facebook.com/nativeenergy"" onmouseout=""document.facebook.src='images/icon-facebook.png'"" onmouseover=""document.facebook.src='images/icon-facebook-hover.png'"" target=""_blank""><img alt=""Facebook"" name=""facebook"" src=""images/icon-facebook.png""/></a>, <a href=""http://www.linkedin.com/company/nativeenergy-inc"" onmouseout=""document.linkedin.src='images/icon-linked-in.png'"" onmouseover=""document.linkedin.src='images/icon-linked-in-hover.png'"" target=""_blank""><img alt=""Linked In"" name=""linkedin"" src=""images/icon-linked-in.png""/></a>, <a href=""http://twitter.com/#!/nativeenergy"" onmouseout=""document.tweeter.src='images/icon-tweeter.png'"" onmouseover=""document.tweeter.src='images/icon-tweeter-hover.png'"" target=""_blank""><img alt=""Tweeter"" name=""tweeter"" src=""images/icon-tweeter.png""/></a>, <a href=""http://vimeo.com/user3897796/videos"" onmouseout=""document.v.src='images/icon-v.png'"" onmouseover=""document.v.src='images/icon-v-hover.png'"" target=""_blank""><img alt=""V"" name=""v"" src=""images/icon-v.png""/></a>, <a href=""http://www.nativeenergy.com/b-corp-certification.html""><img alt=""BCorp"" name=""vbrs"" src=""images/A_BCorp_logo_NEG2.png""/></a>, <a href=""frequently-asked-questions.html"" title=""Help"">Help</a>, <a href=""/site-map.html"" title=""Site Map"">Site Map</a>, <a href=""/contact-us.html"" title=""Contact Us"">Contact Us</a>, <a href=""/privacy-policy.html"" title=""Privacy Policy"">Privacy Policy</a>, <a href=""/terms-conditions.html"" title=""Terms &amp; Conditions"">Terms &amp; Conditions</a>, <a href=""/blog.html"" title=""Blog"">Blog</a>, <a class=""addthis_button_compact"" href=""http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4ec0f5684d78f2aa"">Share:</a>]"
