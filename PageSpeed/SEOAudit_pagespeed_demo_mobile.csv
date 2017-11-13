@@ -1,0 +1,144 @@
+Problem,Important,Headers,Details
+Minimize  Render Blocking  Resources,48.0,"Your page has 7 blocking script resources and 1 blocking CSS resources. This causes a delay in rendering your page.
+None of the above-the-fold content on your page could be rendered without waiting for the following resources to load. Try to defer or asynchronously load blocking resources, or inline the critical portions of those resources directly in the HTML.
+Remove render-blocking JavaScript:
+https://developers.google.com/speed/docs/insights/BlockingJS
+Optimize CSS Delivery of the following:
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
+","http://vn-live-03.slatic.net/searchpage/vendor/scripts/core_mobile/libs/modernizr-custom-4886d6f304.js
+http://vn-live-01.slatic.net/searchpage/js/ga-timing-09c472c8cc.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+http://vn-live-01.slatic.net/searchpage/build/mobile-catalog-77ab6d963e.js
+https://vn-live.slatic.net/pagemanager_widgets/load-pmWidgetsWithDeps.bundle.js
+http://vn-live-03.slatic.net/lzdtracker/lzdtracker.js?v=2a4a781
+http://vn-live-01.slatic.net/lzdtracker/resource_performance.js?v=2a4a781
+http://vn-live-02.slatic.net/searchpage/build/mobile-main-6b929014a1.css
+"
+Prioritize Visible Content,32.0,"Your page requires additional network round trips to render the above-the-fold content. For best performance, reduce the amount of HTML needed to render above-the-fold content.
+The entire HTML response was not sufficient to render the above-the-fold content. This usually indicates that additional resources, loaded after HTML parsing, were required to render above-the-fold content. Prioritize visible content that is needed for rendering above-the-fold by including it directly in the HTML response.
+https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent
+","Only about 4% of the final above-the-fold content could be rendered with the full HTML response .
+"
+Optimize Images,31.98,"Properly formatting and compressing images can save many bytes of data.
+Optimize the following images to reduce their size by 312.3KiB (40% reduction).
+https://developers.google.com/speed/docs/insights/OptimizeImages
+","Compressing https://vn-live.slatic.net/v2/resize/page_manager/5d912d668e8794093862de32df1a0667.jpg?width=618 could save 44.1KiB (42% reduction).
+Compressing and resizing http://vn-live-03.slatic.net/cms/mobilesmartbanners/1504869275-App-icon.png could save 26.9KiB (89% reduction).
+Compressing http://vn-live-01.slatic.net/p/5/hop-qua-lam-sach-da-nhat-ban-sua-rua-mat-perfect-whip-120g-perfect-oil-whip-150ml-co-tao-bot-1510162671-51331661-52e6a1e54d0c9075835af64725dbd72c-catalog_233.jpg could save 11.9KiB (39% reduction).
+Compressing http://vn-live-01.slatic.net/p/4/thung-gach-lego-classic-sang-tao-10696-484-chi-tiet-tang-bo-lap-rap-lego-ngau-nhien-tri-gia-179000vnd-1510300242-76651461-d5c7863b8a4574bfb25c259f77b83727-catalog_233.jpg could save 10.7KiB (37% reduction).
+Compressing http://vn-live-02.slatic.net/p/1/kham-pha-bi-an-ve-khoa-hoc-1497265222-2124046-49eaaf916433d68f7af7c89f11a6a1a5-catalog_233.jpg could save 10.6KiB (39% reduction).
+Compressing http://vn-live-01.slatic.net/p/1/kham-pha-bi-an-ve-trai-dat-nhieu-tac-gia-1507172835-27257951-cc1fb91c7780adaae0f1c8e8520e6808-catalog_233.jpg could save 10KiB (40% reduction).
+Compressing http://vn-live-01.slatic.net/p/7/quan-thun-om-legging-2-soc-the-thao-bt-fashion-qd003k-den-1510159137-1291818-7ebf61073f1610a6e60651f2e94052fe-catalog_233.jpg could save 9.9KiB (36% reduction).
+Compressing http://vn-live-02.slatic.net/p/4/hop-lego-classic-10698-thung-gach-lon-sang-tao-790-chi-tiet-1510296655-48791951-efe2bcee11babbab9ab1e8a913f2e738-catalog_233.jpg could save 9.1KiB (37% reduction).
+Compressing http://vn-live-02.slatic.net/p/8/dong-ho-nu-chinh-hang-royal-crown-italy-5308-irc-vang-hong-1470734106-9474162-5e227142fa2583768415f4a4a98a6d26-catalog_233.jpg could save 8.6KiB (41% reduction).
+Compressing http://vn-live-02.slatic.net/p/8/thuc-an-meo-whiskas-vi-ca-bien-tui-3kg-1510283005-0876729-d83c000a85bedc20723db372b3e5b525-catalog_233.jpg could save 8.6KiB (40% reduction).
+Compressing http://vn-live-03.slatic.net/p/11/keo-milo-cube-275g-100-vien-1510157650-8536459-6c0f588fb1a7bc36ffd8b8ab34965bf5-catalog_233.jpg could save 8.3KiB (39% reduction).
+Compressing http://vn-live-01.slatic.net/p/3/bo-but-bi-12-chiec-tay-xoa-duoc-sau-khi-viet-hieu-doraemon-ngo-nghinh-1510155438-2371553-cda1182225edeafabea1be7e4b6c734e-catalog_233.jpg could save 7.7KiB (40% reduction).
+Compressing http://vn-live-03.slatic.net/p/10/may-hut-bui-ro-bot-philips-fc877601-hang-phan-phoi-chinh-thuc-1510376456-36069471-5b624816ed0f0d1ecee6795244752d1c-catalog_233.jpg could save 7.6KiB (35% reduction).
+Compressing http://vn-live-03.slatic.net/p/8/thuc-an-cho-cho-natural-core-thit-vit-1kg-tang-1-goi-thuc-an-cho-cho-natural-core-thit-vit-1kg-1510157690-24230681-20a0ab06965150a17a67882c3a244e3a-catalog_233.jpg could save 7.2KiB (36% reduction).
+Compressing http://vn-live-01.slatic.net/p/11/thung-12-loc-sua-tiet-trung-vinamilk-adm-gold-co-duong-180ml-tang-10-hop-cung-loai-1510142321-82824271-b01109400dd600ffcc04b2e6a033e40a-catalog_233.jpg could save 7.1KiB (38% reduction).
+Compressing http://vn-live-01.slatic.net/p/3/bo-3-bong-den-philips-ecobright-ledbulb-5w-6500k-duoi-e27-a60-anh-sang-trang-1510166153-6104274-f1f65c08b139066de37cfefb9fb4ce9e-catalog_233.jpg could save 7.1KiB (36% reduction).
+Compressing http://vn-live-02.slatic.net/p/11/thung-24-lon-bia-tiger-330ml-1510162825-4762123-58ab87aa1940ad3b713b94c0a506c82d-catalog_233.jpg could save 6.7KiB (39% reduction).
+Compressing http://vn-live-02.slatic.net/p/8/dung-dich-chong-bam-nuoc-tren-kinh-xe-3m-glass-coat-windshield-08889-lt-200ml-tang-khan-lau-xe-hoi-3m-perfect-it-super-soft-microfiber-pn05400-32cmx36cm-1509960786-82088902-d24af4ca8d8be353b1880ece1a0b13d5-catalog_233.jpg could save 6.6KiB (35% reduction).
+Compressing http://vn-live-01.slatic.net/p/3/bo-may-bat-vit-dung-pin-bosch-go-33-chi-tiet-1510301816-32684311-121bd21c33943e8015d713ea2c27d75c-catalog_233.jpg could save 6.6KiB (35% reduction).
+Compressing http://vn-live-03.slatic.net/p/2/apple-macbook-macbook-air-133-inch-128gb-mqd32-hang-nhap-khau-1510304386-1108289-ff9acfd72b780c1bc87a4e13dbebcff7-catalog_233.jpg could save 6.6KiB (38% reduction).
+Compressing http://vn-live-03.slatic.net/p/6/day-keo-lo-xo-tap-lung-bung-co-lon-tummy-trimmerden-1491206803-6702115-d70147deac1a85ed1864e14dce7c8645-catalog_233.jpg could save 6.5KiB (35% reduction).
+Compressing http://vn-live-03.slatic.net/p/3/bo-may-tinh-bo-tui-va-bao-da-casio-fx-570esplus-1510159155-175525-1ef3a1bd7c502629cfcbe9abd4984fc0-catalog_233.jpg could save 6.4KiB (39% reduction).
+Compressing http://vn-live-03.slatic.net/p/3/den-ban-hoc-led-philips-66046-geometry-1510162570-6446316-47de5b084b8c52f9baa74c1c47da4c2a-catalog_233.jpg could save 6.4KiB (38% reduction).
+Compressing http://vn-live-01.slatic.net/p/3/bo-lau-san-360-do-fujishi-mop-smart-360-xanh-1510283699-4822791-28fecb545a5bc4d00bc684c3636f202a-catalog_233.jpg could save 6KiB (37% reduction).
+Compressing http://vn-live-01.slatic.net/p/8/be-ca-mini-phong-thuy-cho-ban-lam-viec-1503658168-93436311-2dd5ee325081ae85e9e781637921fa12-catalog_233.jpg could save 6KiB (40% reduction).
+Compressing http://vn-live-03.slatic.net/p/3/may-tinh-casio-fx-570vn-plus-1510159155-4661002-75b690e3af6635a4f45e939b7f72339e-catalog_233.jpg could save 6KiB (35% reduction).
+Compressing http://vn-live-03.slatic.net/p/8/dong-ho-nam-day-thep-khong-gi-skmei-sk063-bac-tang-1-dong-honam-day-da-geneva-gv005-den-1510162694-0586413-0c8840ba4f63cd87eb64e3275f4a770c-catalog_233.jpg could save 5.4KiB (34% reduction).
+Compressing http://vn-live-03.slatic.net/p/2/apple-macbook-air-13inch-8gb-ram-128gb-mqd32-bac-hang-nhap-khau-1509004993-01046381-5c9bbe88a37ca3e037b380f99f8fdca4-catalog_233.jpg could save 5.1KiB (38% reduction).
+Compressing http://vn-live-01.slatic.net/p/2/vong-deo-tay-xiaomi-miband-2-den-hang-phan-phoi-chinh-thuc-1510220221-3893725-f5b000652cb9982f544b6c5c333b5e92-catalog_233.jpg could save 5KiB (33% reduction).
+Compressing http://vn-live-03.slatic.net/p/6/may-massage-the-thao-xung-dien-tri-lieu-4-mieng-dan-xam-phoi-den-1497519020-6716056-ce240ed9d6642054aadc03c7e43c42e3-catalog_233.jpg could save 4.8KiB (37% reduction).
+Compressing http://vn-live-03.slatic.net/p/7/bo-3-tui-quan-lot-bikini-vera-6-quan-lot-1481711473-6530913-8ccd0fe8239478c4cc2aeabe9ed3d20d-catalog_233.jpg could save 4.3KiB (41% reduction).
+Compressing http://vn-live-01.slatic.net/p/7/tui-deo-cheo-han-quoc-laza-tx349-den-1510320617-4005033-de3d8ccda8006b84c6ef6ffe1ea00045-catalog_233.jpg could save 4.2KiB (35% reduction).
+Compressing http://vn-live-03.slatic.net/p/3/led-world-map-decoration-magnetic-levitation-floating-globe-lightblack-intl-1485449627-0746291-3f9b062c7557592cb5b5db458060f307-catalog_233.jpg could save 4.1KiB (34% reduction).
+Compressing http://vn-live-02.slatic.net/p/6/bo-banh-xe-tap-the-duc-verygood-vang-1465211662-9955322-3f1055e52c3c3b778724e301950eb4d5-catalog_233.jpg could save 3.8KiB (37% reduction).
+Compressing http://vn-live-03.slatic.net/p/3/bo-5-moc-treo-quan-ao-lockamplock-ettom-bang-nhua-cau-vai-co-cao-su-chong-truot-mau-xam-etm373g-1510149700-0271772-7d0638b27fd6a523795c654d17daec93-catalog_233.jpg could save 3.8KiB (36% reduction).
+Compressing http://vn-live-03.slatic.net/p/8/ba-lo-ronal-bl85-den-soc-xanh-bien-1506749680-02893851-c345a936eccd5892dfe6a9a08f74595f-catalog_233.jpg could save 3.7KiB (40% reduction).
+Compressing http://vn-live-01.slatic.net/p/3/o-cam-dien-quang-eco-dq-chong-chay-esk-5wr-62eco-1510159238-2036946-c5c9d8dda8165ac19e1718b02d4f9640-catalog_233.jpg could save 3.2KiB (36% reduction).
+Compressing http://vn-live.slatic.net/cms/2017/04-Apr/Sticker-Banner-FreeShipping-Apr20.png could save 3.2KiB (65% reduction).
+Compressing http://vn-live-01.slatic.net/p/8/vali-trip-p315-size-60cm-24inch-mau-bac-1510369239-2414871-06745f01075894ab6e574599d9bb47ac-catalog_233.jpg could save 2.5KiB (34% reduction).
+"
+Leverage Browser Caching,15.07,"Setting an expiry date or a maximum age in the HTTP headers for static resources instructs the browser to load previously downloaded resources from local disk rather than over the network.
+Leverage browser caching for the following cacheable resources:
+https://developers.google.com/speed/docs/insights/LeverageBrowserCaching
+","https://vn-live.slatic.net/pagemanager_widgets/load-pmWidgetsWithDeps.bundle.js (8 seconds)
+https://vn-live.slatic.net/pagemanager_widgets/pmWidgetsWithDeps.css?rev=3cfe0b3cac6f64ee6a64eed35d2edfc0f423d75d (37 seconds)
+http://vn-live-03.slatic.net/searchpage/vendor/scripts/core_mobile/libs/modernizr-custom-4886d6f304.js (4.6 minutes)
+http://vn-live-03.slatic.net/lzdtracker/lzdtracker.js?v=2a4a781 (4.9 minutes)
+http://s3.amazonaws.com/ki.js/66958/fJX.js (5 minutes)
+http://vn-live-02.slatic.net/lzdtracker/adobe.js?v=2a4a781 (5.5 minutes)
+http://vn-live-01.slatic.net/searchpage/build/mobile-catalog-77ab6d963e.js (5.9 minutes)
+http://vn-live-01.slatic.net/searchpage/js/ga-timing-09c472c8cc.js (6.1 minutes)
+http://vn-live-02.slatic.net/searchpage/build/mobile-main-6b929014a1.css (7.6 minutes)
+http://vn-live-01.slatic.net/lzdtracker/resource_performance.js?v=2a4a781 (14.1 minutes)
+http://www.googletagmanager.com/gtm.js?id=GTM-BXDL (15 minutes)
+https://vn-live.slatic.net/pagemanager_widgets/pmWidgetsWithDeps.bundle.js?rev=3cfe0b3cac6f64ee6a64eed35d2edfc0f423d75d (15 minutes)
+http://connect.facebook.net/en_US/fbevents.js (20 minutes)
+http://connect.facebook.net/signals/config/759299637431346?v=2.8.1 (20 minutes)
+http://assets.alicdn.com/g/alilog/mlog/aplus_int.js (20.3 minutes)
+http://bat.bing.com/bat.js (30 minutes)
+http://www.google-analytics.com/plugins/ua/ec.js (60 minutes)
+http://www.googleadservices.com/pagead/conversion_async.js (60 minutes)
+http://js-agent.newrelic.com/nr-632.min.js (2 hours)
+http://stats.g.doubleclick.net/dc.js (2 hours)
+http://www.google-analytics.com/analytics.js (2 hours)
+"
+Size Content To Viewport,3.0,"The page content is too wide for the viewport, forcing the user to scroll horizontally. Size the page content to the viewport to provide a better user experience.
+https://developers.google.com/speed/docs/insights/SizeContentToViewport
+The page content is 416 CSS pixels wide, but the viewport is only 412 CSS pixels wide. The following elements fall outside the viewport:
+","The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+The element <div class=""versatile-banner""></div> falls outside the viewport.
+"
+Enable Gzip Compression,2.18,"Compressing resources with gzip or deflate can reduce the number of bytes sent over the network.
+Enable compression for the following resources to reduce their transfer size by 21.2KiB (70% reduction).
+https://developers.google.com/speed/docs/insights/EnableCompression
+","Compressing http://www.everestjs.net/static/st.v2.js could save 21.2KiB (70% reduction).
+"
+Size  Tap  Targets Appropriately,0.01,"Some of the links/buttons on your webpage may be too small for a user to easily tap on a touchscreen. Consider making these tap targets larger to provide a better user experience.
+https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately
+The following tap targets are close to other nearby tap targets and may need additional spacing around them.
+","The tap target <div class=""page-link page-link--next""></div> is close to 1 other tap targets.
+The tap target <a href=""http://www.laz…page=2&amp;sc=IdUP""> is close to 1 other tap targets.
+The tap target <a href=""/terms-of-use/"">Điều khoản</a> and 1 others are close to other tap targets.
+"
+Avoid Landing Page Redirects,0.0,"Your page has no redirects. Learn more about avoiding landing page redirects.
+https://developers.google.com/speed/docs/insights/AvoidRedirects
+",
+Avoid Plugins,0.0,"Your page does not appear to use plugins, which would prevent content from being usable on many platforms. Learn more about the importance of avoiding plugins.
+https://developers.google.com/speed/docs/insights/AvoidPlugins
+",
+Configure Viewport,0.0,"Your page specifies a viewport matching the device's size, which allows it to render properly on all devices. Learn more about configuring viewports.
+https://developers.google.com/speed/docs/insights/ConfigureViewport
+",
+Main  Resource Server  Response Time,0.0,"Your server responded quickly. Learn more about server response time optimization.
+https://developers.google.com/speed/docs/insights/Server
+",
+Minify Css,0.0,"Your CSS is minified. Learn more about minifying CSS.
+https://developers.google.com/speed/docs/insights/MinifyResources
+",
+Minify H T  M L,0.0,"Your HTML is minified. Learn more about minifying HTML.
+https://developers.google.com/speed/docs/insights/MinifyResources
+",
+Minify Java Script,0.0,"Your JavaScript content is minified. Learn more about minifying JavaScript.
+https://developers.google.com/speed/docs/insights/MinifyResources
+",
+Use Legible Font Sizes,0.0,"The text on your page is legible. Learn more about using legible font sizes.
+https://developers.google.com/speed/docs/insights/UseLegibleFontSizes
+",

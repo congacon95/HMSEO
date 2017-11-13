@@ -1,0 +1,135 @@
+Problem,Important,Headers,Details
+Optimize Images,54.51,"Properly formatting and compressing images can save many bytes of data.
+Optimize the following images to reduce their size by 532.1KiB (49% reduction).
+https://developers.google.com/speed/docs/insights/OptimizeImages
+","Compressing and resizing http://vn-live.slatic.net/cms/images/Logo_VNC.PNG could save 28.9KiB (92% reduction).
+Compressing and resizing https://vn-live-01.slatic.net/p/4/thung-gach-lego-classic-sang-tao-10696-484-chi-tiet-tang-bo-lap-rap-lego-ngau-nhien-tri-gia-179000vnd-1510300242-76651461-d5c7863b8a4574bfb25c259f77b83727-catalog_233.jpg could save 24.2KiB (83% reduction).
+Compressing and resizing http://vn-live-02.slatic.net/cms/2016/registered.png could save 20.2KiB (83% reduction).
+Compressing https://vn-live.slatic.net/p/-8878985-1ea85056bc7b9a5b12457794eb8a0e04-product.jpg could save 19.7KiB (42% reduction).
+Compressing and resizing https://vn-live-02.slatic.net/p/2/tivi-led-asano-32inch-hd-model-e32df2200-den-1474003265-3890772-5402cd3526f6c84410050a5994941ec0-catalog_233.jpg could save 18.7KiB (84% reduction).
+Compressing and resizing http://vn-live-01.slatic.net/cms/2016/announced.png could save 16.8KiB (80% reduction).
+Compressing https://vn-live.slatic.net/p/-5177396-d133d73e1801334dddb46112695ae162-product.jpg could save 16.5KiB (39% reduction).
+Compressing https://vn-live.slatic.net/p/-9650096-0050ba124bc79ae786934b62599be8ee-product.jpg could save 15.8KiB (48% reduction).
+Compressing https://vn-live.slatic.net/p/-9114406-aaaf9ef766149902b41500739c45c642-product.jpg could save 15KiB (42% reduction).
+Compressing https://vn-live.slatic.net/p/-14805271-9197a3facdc322de57ff6dc14a9d8bc6-product.jpg could save 14.5KiB (36% reduction).
+Compressing https://vn-live.slatic.net/p/-0040972-ea8e65056bb70beba01db272c5f653a1-product.jpg could save 14.5KiB (44% reduction).
+Compressing and resizing https://vn-live-01.slatic.net/p/4/xe-day-tre-em-cao-cap-gap-gon-mxing-k11-1510155341-72370351-c131f3f2bab47c3bec3518d7d53d63c5-catalog_233.jpg could save 14.5KiB (81% reduction).
+Compressing https://vn-live.slatic.net/p/-1431612-fee0c4c07b536d429e8cacea6a8a3c87-product.jpg could save 14.3KiB (40% reduction).
+Compressing https://vn-live.slatic.net/p/-8536459-5f5e41eff8793673cc535273082fe30e-product.jpg could save 14.3KiB (39% reduction).
+Compressing https://vn-live.slatic.net/p/-24805271-4396ee238c59a84e7f47b9f609ab1ca9-product.jpg could save 14KiB (36% reduction).
+Compressing and resizing https://vn-live-03.slatic.net/p/10/may-giat-cua-truoc-inverter-electrolux-ewf12844-80-kg-1481181456-8717223-2ac7935f37554a340bd2118c0b16706f-catalog_233.jpg could save 14KiB (84% reduction).
+Compressing and resizing https://vn-live-03.slatic.net/p/10/bep-nuong-dien-lon-kangaroo-kg198-1510315211-5684715-40a5b0bdb322bd836e036a2bcd50b89b-catalog_233.jpg could save 13.9KiB (78% reduction).
+Compressing and resizing https://vn-live-01.slatic.net/p/2/smart-tv-led-lg-55-inch-uhd-4k-hdr-model-55uj632t-den-hangphan-phoi-chinh-thuc-1497496366-1177746-a05384b46794470ee25f6df20844f554-catalog_233.jpg could save 13.7KiB (82% reduction).
+Compressing https://vn-live.slatic.net/p/-4762123-8bf68ba98ed9a8841306627f6d9f3102-product.jpg could save 13.5KiB (40% reduction).
+Compressing https://vn-live.slatic.net/p/-4680365-bccb7a05b09fc6f62721bcedf888b740-product.jpg could save 13.1KiB (41% reduction).
+Compressing https://vn-live.slatic.net/p/-8499786-452871cbf9302aa69aef96a39d10abbd-product.jpg could save 12.8KiB (39% reduction).
+Compressing and resizing https://vn-live-02.slatic.net/p/6/bampg-may-tap-co-bung-da-nang-cai-tien-new-six-pack-care-2018-1510157571-7921618-e7f918af1844f13687e4d4a689d1807f-catalog_233.jpg could save 12.6KiB (79% reduction).
+Compressing https://vn-live.slatic.net/p/-9048691-1-product.jpg could save 12.1KiB (39% reduction).
+Compressing https://vn-live.slatic.net/p/-5431612-4528fee387f5c6d2868469078a42aeb7-product.jpg could save 12KiB (38% reduction).
+Compressing https://vn-live.slatic.net/p/-7922886-5fb5247655efc2c398d963bd786a163c-product.jpg could save 11.7KiB (38% reduction).
+Compressing https://vn-live.slatic.net/p/-8048691-1-product.jpg could save 11.2KiB (39% reduction).
+Compressing https://vn-live.slatic.net/p/-2207539-beacdbe85b28b71ec70daf1a15ccf6c9-product.jpg could save 10.8KiB (38% reduction).
+Compressing https://vn-live.slatic.net/p/-8995316-0b05b1e8a5607391df86733c8895edf6-product.jpg could save 9.6KiB (41% reduction).
+Compressing and resizing https://vn-live-02.slatic.net/p/8/mu-bao-hiem-34-napoli-sh-vang-nham-bao-hanh-12-thang-1505295530-46174731-f5baaa50da20a793e4e7bf8ca9dc3183-catalog_233.jpg could save 9.4KiB (80% reduction).
+Compressing https://vn-live.slatic.net/p/-1111402-1-product.jpg could save 9.3KiB (40% reduction).
+Compressing https://vn-live.slatic.net/p/-2476423-7868cc4d46d0622a4ab6434e0fcc3a70-product.jpg could save 8.2KiB (39% reduction).
+Compressing and resizing https://vn-live-03.slatic.net/p/7/giay-the-thao-cao-cap-nam-hunter-biti39s-dsm064233den-den-1482394509-9538833-6d96a779cfd509fb7a36b28fbbd51c6f-catalog_233.jpg could save 8.2KiB (80% reduction).
+Compressing https://vn-live.slatic.net/p/-3930105-28f02a4d3863cfbf4056ae0a0bf0153a-product.jpg could save 8KiB (38% reduction).
+Compressing https://vn-live.slatic.net/p/-81474071-24e4fb67178449071c79020b617f27ca-product.jpg could save 6.9KiB (40% reduction).
+Compressing https://vn-live.slatic.net/p/-391163-6f869897dd90359ad388ff45c8b1554d-product.jpg could save 6.7KiB (40% reduction).
+Compressing and resizing http://vn-live-03.slatic.net/cms/images/Netco.png could save 5.2KiB (70% reduction).
+Compressing and resizing http://vn-live-02.slatic.net/cms/icons/ghn.jpg could save 5KiB (84% reduction).
+Compressing https://vn-live.slatic.net/p/-9665753-da180436d5f0cf5d679ca274e406ca9a-product.jpg could save 4.6KiB (32% reduction).
+Compressing http://vn-live-01.slatic.net/cms/2017/11-Nov/600x80.jpg could save 4.2KiB (25% reduction).
+Compressing http://vn-live.slatic.net/cms/2017/11-Nov/OR/Half_docking_all_deal.jpg could save 4.1KiB (23% reduction).
+Compressing https://vn-live.slatic.net/p/-2893725-e2154bd4c75f2ae934400bbe926bf06e-product.jpg could save 4.1KiB (47% reduction).
+Compressing and resizing http://vn-live-03.slatic.net/cms/images/ship60.png could save 3.5KiB (63% reduction).
+Compressing http://vn-live-03.slatic.net/cms/seal_80_mar2016.png could save 3.5KiB (20% reduction).
+Compressing https://vn-live.slatic.net/p/-1893725-7b28ca8e74b3ce419aeac09cb280f42e-product.jpg could save 3.5KiB (45% reduction).
+Compressing and resizing http://vn-live-03.slatic.net/searchpage/build/components/logo/images/vn-4e1c84d1a1.png could save 3KiB (54% reduction).
+Compressing http://vn-live-02.slatic.net/cms/icons/vietnampost.jpg could save 2.8KiB (72% reduction).
+Compressing https://vn-live.slatic.net/p/-3210864-2300d25b01a941e6668013630cc594c7-product.jpg could save 2.5KiB (35% reduction).
+Compressing http://vn-live-01.slatic.net/cms/images/logo-ninjavan.png could save 1.3KiB (29% reduction).
+Compressing http://vn-live-01.slatic.net/cms/images/logo-DHL-1.png could save 1.3KiB (29% reduction).
+Compressing http://vn-live-02.slatic.net/cms/icons/lex_logo.png could save 1.2KiB (24% reduction).
+Compressing http://vn-live-02.slatic.net/cms/images/logo-ghtk.png could save 965B (15% reduction).
+Compressing https://vn-live.slatic.net/cms/2017/11-Nov/OR/or-header.png could save 916B (19% reduction).
+Compressing http://vn-live-02.slatic.net/cms/images/logo-GNN.png could save 881B (33% reduction).
+"
+Minimize  Render Blocking  Resources,14.0,"Your page has 7 blocking script resources and 2 blocking CSS resources. This causes a delay in rendering your page.
+None of the above-the-fold content on your page could be rendered without waiting for the following resources to load. Try to defer or asynchronously load blocking resources, or inline the critical portions of those resources directly in the HTML.
+Remove render-blocking JavaScript:
+https://developers.google.com/speed/docs/insights/BlockingJS
+Optimize CSS Delivery of the following:
+https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery
+","http://vn-live-01.slatic.net/searchpage/vendor/scripts/modernizr/modernizr-custom-cc1027d9e8.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js
+http://vn-live-01.slatic.net/searchpage/js/ga-timing-09c472c8cc.js
+http://vn-live-03.slatic.net/searchpage/build/desktop-catalog-aa84617ee3.js
+http://vn-live-02.slatic.net/searchpage/build/desktop-inner-aee1d1b480.js
+http://vn-live-03.slatic.net/lzdtracker/lzdtracker.js?v=2a4a781
+http://vn-live-01.slatic.net/lzdtracker/resource_performance.js?v=2a4a781
+http://vn-live-03.slatic.net/searchpage/build/desktop-catalog-8c447ac649.css
+http://vn-live-02.slatic.net/searchpage/build/desktop-inner-fbe9ce5c80.css
+"
+Leverage Browser Caching,12.95,"Setting an expiry date or a maximum age in the HTTP headers for static resources instructs the browser to load previously downloaded resources from local disk rather than over the network.
+Leverage browser caching for the following cacheable resources:
+https://developers.google.com/speed/docs/insights/LeverageBrowserCaching
+","https://recommender.lazada.vn/rico_client.js (expiration not specified)
+https://ynuf.alipay.com/service/um.json (expiration not specified)
+http://www.google-analytics.com/cx/api.js?experiment=dmyEw3HzSeOnKADYeG_0OQ&_=1510395367934 (30 seconds)
+http://vn-live-02.slatic.net/searchpage/build/desktop-inner-fbe9ce5c80.css (34 seconds)
+http://vn-live-01.slatic.net/lzdtracker/resource_performance.js?v=2a4a781 (106 seconds)
+http://vn-live-02.slatic.net/lzdtracker/adobe.js?v=2a4a781 (108 seconds)
+http://s3.amazonaws.com/ki.js/66958/fJX.js (5 minutes)
+http://vn-live-03.slatic.net/lzdtracker/lzdtracker.js?v=2a4a781 (5.9 minutes)
+http://vn-live-01.slatic.net/searchpage/js/ga-timing-09c472c8cc.js (6.4 minutes)
+http://vn-live-03.slatic.net/searchpage/build/desktop-catalog-8c447ac649.css (9 minutes)
+http://vn-live-03.slatic.net/searchpage/build/desktop-catalog-aa84617ee3.js (11.7 minutes)
+http://vn-live-01.slatic.net/searchpage/vendor/scripts/modernizr/modernizr-custom-cc1027d9e8.js (12.7 minutes)
+http://vn-live-02.slatic.net/searchpage/build/desktop-inner-aee1d1b480.js (13.3 minutes)
+http://www.googletagmanager.com/gtm.js?id=GTM-BXDL (15 minutes)
+http://connect.facebook.net/en_US/fbevents.js (20 minutes)
+http://connect.facebook.net/en_US/sdk.js (20 minutes)
+http://connect.facebook.net/signals/config/759299637431346?v=2.8.1 (20 minutes)
+http://assets.alicdn.com/g/alilog/mlog/aplus_int.js (20.3 minutes)
+http://bat.bing.com/bat.js (30 minutes)
+https://apis.google.com/js/client:platform.js (30 minutes)
+https://apis.google.com/js/rpc:shindig_random.js?onload=init (30 minutes)
+http://media.richrelevance.com/rrserver/js/1.0/p13n.js (60 minutes)
+http://www.google-analytics.com/plugins/ua/ec.js (60 minutes)
+http://www.googleadservices.com/pagead/conversion_async.js (60 minutes)
+http://js-agent.newrelic.com/nr-632.min.js (2 hours)
+http://stats.g.doubleclick.net/dc.js (2 hours)
+http://www.google-analytics.com/analytics.js (2 hours)
+"
+Prioritize Visible Content,10.0,"Your page requires additional network round trips to render the above-the-fold content. For best performance, reduce the amount of HTML needed to render above-the-fold content.
+The entire HTML response was not sufficient to render the above-the-fold content. This usually indicates that additional resources, loaded after HTML parsing, were required to render above-the-fold content. Prioritize visible content that is needed for rendering above-the-fold by including it directly in the HTML response.
+https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent
+","Only about 12% of the final above-the-fold content could be rendered with the full HTML response .
+"
+Enable Gzip Compression,4.93,"Compressing resources with gzip or deflate can reduce the number of bytes sent over the network.
+Enable compression for the following resources to reduce their transfer size by 48KiB (70% reduction).
+https://developers.google.com/speed/docs/insights/EnableCompression
+","Compressing http://www.lazada.vn/gajax/search_products/?skus=MI737HAAA1TENRVNAMZ%2CHU545TBAA9J971VNAMZ%2CBG543SPAA543FGVNAMZ%2CMI902OTAA3KI28VNAMZ%2CAS082ELAA8J159VNAMZ%2CSU023HAAA0T0L5VNAMZ%2CSO993ELAA3340MVNAMZ%2CFI443TBAA9R8B1VNAMZ%2CZA209FAAA680KIVNAMZ%2C3M003SPAUABYVNAMZ%2CLU690HL70KENANVN%2CNA801OTAAB2QCQVNAMZ%2CMA700HAAA4QA17VNAMZ%2CAH108TBAA6ZZZCVNAMZ%2CMI343FABA375VNAMZ%2CMA700HAAA7S2UZVNAMZ%2CIR557HAAA59VSZVNAMZ%2CSA937ELAAAK25ZVNAMZ%2CEL338HAAA1QIBHVNAMZ%2CMO761ELAA9ISK4VNAMZ%2CCO956HAAAA9EY6VNAMZ%2CLA307HBAA9X5MJVNAMZ%2CBE683OTAA0YMYBVNAMZ%2CJB570ELAA3HG83VNAMZ%2CBR170ELAA30VS5VNAMZ%2CEN356ELAA351NJVNAMZ%2CAD017ELAA1C41RVNAMZ%2CGO676ELAA9AW0RVNAMZ%2CSA937ELAA4M3SFVNAMZ%2CNE644ELAA1U825VNAMZ%2CAP069ELAAAG2LJVNAMZ could save 25KiB (70% reduction).
+Compressing http://www.everestjs.net/static/st.v2.js could save 21.2KiB (70% reduction).
+Compressing https://recommender.lazada.vn/rico_client.js could save 1.8KiB (73% reduction).
+"
+Minify Java Script,1.24,"Compacting JavaScript code can save many bytes of data and speed up downloading, parsing, and execution time.
+Minify JavaScript for the following resources to reduce their size by 12.1KiB (69% reduction).
+https://developers.google.com/speed/docs/insights/MinifyResources
+","Minifying http://vn-live-01.slatic.net/searchpage/vendor/scripts/modernizr/modernizr-custom-cc1027d9e8.js could save 11.3KiB (75% reduction) after compression.
+Minifying https://recommender.lazada.vn/rico_client.js could save 818B (33% reduction).
+"
+Avoid Landing Page Redirects,0.0,"Your page has no redirects. Learn more about avoiding landing page redirects.
+https://developers.google.com/speed/docs/insights/AvoidRedirects
+",
+Main  Resource Server  Response Time,0.0,"Your server responded quickly. Learn more about server response time optimization.
+https://developers.google.com/speed/docs/insights/Server
+",
+Minify Css,0.0,"Your CSS is minified. Learn more about minifying CSS.
+https://developers.google.com/speed/docs/insights/MinifyResources
+",
+Minify H T  M L,0.0,"Your HTML is minified. Learn more about minifying HTML.
+https://developers.google.com/speed/docs/insights/MinifyResources
+",
